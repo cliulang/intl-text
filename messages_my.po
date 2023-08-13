@@ -146,7 +146,7 @@ msgstr "標準テキスト"
 // TODO： 无对应分类
 #: api/common/safe_content.py:301
 msgid "涉政"
-msgstr "政治にかかわる"
+msgstr "政治にかかわる"//pass
 
 #: api/common/safe_content.py:303
 msgid "色情"
@@ -256,7 +256,7 @@ msgstr "本を読む"
 
 #: api/v1/plan/api.py:471
 msgid "学习"
-msgstr "勉強"
+msgstr "勉強する"
 
 #: api/v2/cheer/api.py:86 api/v2/currency/api.py:762 api/v3/cheer/api.py:251
 msgid "睡眠券"
@@ -265,7 +265,7 @@ msgstr "睡眠チケット"
 #: api/v2/cheer/api.py:98 models/currency.py:167 models/record.py:26
 #: models/record.py:89
 msgid "余香兑换"
-msgstr "余香両替"
+msgstr "余香両替"//pass
 
 #: api/v2/classroom/api.py:73 api/v2/classroom/api.py:141
 msgid "班"
@@ -509,15 +509,15 @@ msgstr "ホワイトノイズ"
 
 #: api/v2/currency/api.py:70 api/v2/currency/api.py:120
 msgid "木质风格"
-msgstr "木質調"//pass
+msgstr "木製スタイル"
 
 #: api/v2/currency/api.py:70 api/v2/currency/api.py:120
 msgid "萌即正义"
-msgstr "萌えは正義"//pass
+msgstr "かわいい"
 
 #: api/v2/currency/api.py:70 api/v2/currency/api.py:121
 msgid "赫本时代"
-msgstr "ヘップバーン時代"//pass
+msgstr "レトロ"
 
 #: api/v2/currency/api.py:71
 msgid "纯白"
@@ -553,7 +553,7 @@ msgstr "夏の夜の虫の音"
 
 #: api/v2/currency/api.py:116
 msgid "播放器白噪音套餐"
-msgstr "プレーヤーホワイトノイズセット"
+msgstr "プレーヤーホワイトノイズリスト"
 
 #: api/v2/currency/api.py:182 models/currency.py:24
 msgid "历史专注奖励"
@@ -561,43 +561,43 @@ msgstr "通算勉強のボーナンス"
 
 #: api/v2/currency/api.py:192
 msgid "数据量"
-msgstr "データ量"//pass
+msgstr "データ量"
 
 #: api/v2/currency/api.py:193
 msgid "数据查询耗时"
-msgstr "データクエリに時間がかかる"//pass
+msgstr "データ検索にかかった時間"
 
 #: api/v2/currency/api.py:194
 msgid "数据处理耗时"
-msgstr "データ処理に時間がかかる"//pass
+msgstr "データ処理にかかった時間"
 
 #: api/v2/currency/api.py:195
 msgid "数据插入耗时"
-msgstr "データ挿入に時間がかかる"//pass
+msgstr "データ挿入にかかった時間"
 
 #: api/v2/currency/api.py:210
 msgid "购买Co钻60Co钻"
-msgstr "Coドリル60 Coドリル購入"
+msgstr "60ダイヤ60 ダイヤを購入"
 
 #: api/v2/currency/api.py:212
 msgid "购买Co钻300Co钻"
-msgstr "Coドリル300 Coドリルの購入"
+msgstr "300ダイヤ ダイヤの購入"
 
 #: api/v2/currency/api.py:214
 msgid "购买Co钻680Co钻"
-msgstr "Coドリル680 Coドリル購入"
+msgstr "680ダイヤ ダイヤの購入"
 
 #: api/v2/currency/api.py:216
 msgid "购买Co钻1280Co钻"
-msgstr "Coドリル1280 Coドリル購入"
+msgstr "1280ダイヤ ダイヤの購入"
 
 #: api/v2/currency/api.py:218
 msgid "购买Co钻1980Co钻"
-msgstr "Coドリル1980 Coドリル購入"
+msgstr "1980ダイヤ ダイヤの購入"
 
 #: api/v2/currency/api.py:220
 msgid "购买Co钻3280Co钻"
-msgstr "Coドリル3280 Coドリルの購入"
+msgstr "3280ダイヤ ダイヤの購入"
 
 #: api/v2/currency/api.py:241 api/v2/currency/api.py:274 models/activity.py:118
 msgid "自习券"
@@ -605,45 +605,45 @@ msgstr "自習チケット"
 
 #: api/v2/currency/api.py:241
 msgid "无限卡"
-msgstr "無限カード"
+msgstr "アンリミットカード"
 
 #: api/v2/currency/api.py:241 api/v2/currency/api.py:286
 #: api/v2/user_info/api.py:1901 models/activity.py:112 models/activity.py:115
 #: models/activity.py:119
 msgid "暂停器"
-msgstr "サスペンダ"
+msgstr "ストップウォッチ"
 
 #: api/v2/currency/api.py:241 api/v2/currency/api.py:292
 #: api/v2/user_info/api.py:1890 models/activity.py:110 models/activity.py:114
 #: models/activity.py:118
 msgid "大课间"
-msgstr "長い時間"
+msgstr "昼休みチャイム"
 
 #: api/v2/currency/api.py:317
 msgid "密码教室"
-msgstr "パスワード教室"
+msgstr "パスワード教室"//pass
 
 #: api/v2/currency/api.py:321
 msgid "月租"
-msgstr "家賃"
+msgstr "家賃"//pass
 
 #: api/v2/currency/api.py:343 api/v2/currency/api.py:361
 #: api/v2/currency/api.py:746 api/v2/currency/api.py:1461
 #: api/v2/currency/api.py:1470 models/police_office.py:137
 msgid "小纸条"
-msgstr "メモ用紙"
+msgstr "メッセージ"
 
 #: api/v2/currency/api.py:343 api/v2/currency/api.py:367
 #: api/v2/currency/api.py:751
 msgid "小锤锤"
-msgstr "ハンマハンマ"
+msgstr "ハンマハンマ"//pass
 
 #: api/v2/currency/api.py:343 api/v2/currency/api.py:373
 #: api/v2/currency/api.py:377 api/v2/currency/api.py:756
 #: api/v2/user_info/api.py:1934 models/activity.py:111 models/activity.py:114
 #: models/activity.py:119
 msgid "早休铃"
-msgstr "早休のベル"
+msgstr "前倒し休憩チャイム"
 
 #: api/v2/currency/api.py:365 api/v2/currency/api.py:815
 #: api/v2/currency/api.py:2411 api/v2/currency/api.py:2425
@@ -684,19 +684,19 @@ msgstr "雷万鈞ハンマー"//pass
 #: api/v2/currency/api.py:459 models/currency.py:37 models/currency.py:165
 #: models/record.py:26 models/record.py:85
 msgid "系统赠送"
-msgstr "システム贈与"
+msgstr "ボーナス"
 
 #: api/v2/currency/api.py:506
 msgid "今天已经赚了2500 Co币啦，好充实的一天，棒！"
-msgstr "今日はもう2500 Coドルも稼いで、充実した一日でした、素敵！"
+msgstr "今日は2500 コインを取得しました。とても充実した一日でした。最高！"
 
 #: api/v2/currency/api.py:509
 msgid "你今天赚了好多啦！要到达上限了呢，这次专注可获得"
-msgstr "あなたは今日たくさん儲けましたね。上限に達しますね、今回は集中して獲得できます"
+msgstr "今日はたくさんのコインを取得しましたね。コインの取得上限は1日2500 コインなので、今回の獲得できる数量は"
 
 #: api/v2/currency/api.py:509
 msgid " Co币哦"
-msgstr "Coコインですよ"
+msgstr "ですよ"
 
 #: api/v2/currency/api.py:514
 msgid "小时"
@@ -708,116 +708,116 @@ msgstr "分"
 
 #: api/v2/currency/api.py:521
 msgid "哎呦，不错哦！这次专注了"
-msgstr "あら、いいですね！今回は集中しました"
+msgstr "いいですね！今回の勉強時間は"
 
 #: api/v2/currency/api.py:521 api/v2/currency/api.py:523
 #: api/v2/currency/api.py:525 api/v2/currency/api.py:527
 msgid "，赚了"
-msgstr "あ、儲かった"
+msgstr "、取得したコイン数は"
 
 #: api/v2/currency/api.py:521 api/v2/currency/api.py:523
 #: api/v2/currency/api.py:525 api/v2/currency/api.py:527
 msgid " Co币！"
-msgstr "Coコイン！"
-
+msgstr "コインです！"
+// TODO:看看文本补全后的内容确认
 #: api/v2/currency/api.py:523
 msgid "成功完成本次专注！轻度专注了"
-msgstr "今回の集中を成功させました！軽い集中"
+msgstr "今回の勉強を完了しました！お気軽コースでの勉強時間:"
 
 #: api/v2/currency/api.py:525
 msgid "白名单模式下，专注了"
-msgstr "ホワイトリストモードで、集中した"
+msgstr "ホワイトリストコースでの勉強時間:"
 
 #: api/v2/currency/api.py:527
 msgid "专注了"
-msgstr "集中した"
+msgstr "勉強時間:"
 
 #: api/v2/currency/api.py:546 api/v5/wall/room_wall_api.py:176
 #: api/v6/user/user_info_api.py:212
 msgid "深度"
-msgstr "深さ"
+msgstr "全集中コース"
 
 #: api/v2/currency/api.py:548 api/v5/wall/room_wall_api.py:174
 #: api/v6/user/user_info_api.py:210
 msgid "轻度"
-msgstr "軽度"
+msgstr "お気軽コース"
 
 #: api/v2/currency/api.py:550
 msgid "白名单"
 msgstr "ホワイトリスト"
-
+//　TODO:打折后的价格ok 如果是指打折后的商品的话再议
 #: api/v2/currency/api.py:612 api/v2/currency/api.py:642
 msgid "打过折了"
-msgstr "割引した"
+msgstr "割引した値段"
 
 #: api/v2/currency/api.py:725
 msgid "任意门"
-msgstr "任意のドア"
+msgstr "勝手口ドア"
 
 #: api/v2/currency/api.py:726
 msgid "拥有任意门期间，可以进行自由模式的自习哦，碎片时间自习党必备！"
-msgstr "任意のドアを持っている間は、自由モードの自習ができますよ。断片的な時間自習党が必要です！"
+msgstr "勝手口ドアを持っている間は、自由モードで学習ができます。短い時間で効率的に勉強したい方にピッタリです！"
 
 #: api/v2/currency/api.py:728
 msgid "一张券对应一次免费额度外的自习次数哦，如果一直遵循制订的计划，一次自习可持续<co>18h</co>呢！"
-msgstr "1枚の券は1回の無料枠外の自習回数に対応していますよ。制定された計画に従っていれば、1回の自習は持続可能です<co>18 h</co>ね！"
+msgstr "無料の自習回数を使い切った場合、1枚のチケットで自習を開始することができます。予定通りに進めていれば、1回の学習は最大<co>18 h</co>でま可能です！"
 
 #: api/v2/currency/api.py:730
 msgid "时间暂停器！专注时如果临时需要请假，可以先让计时暂停，最多<co>10min</co>！一天只能使用<co>5次</co>哦~"
-msgstr "タイムストップ！集中するときに一時的に休暇を取る必要がある場合は、まずタイミングを一時停止させることができます。最大<co>10 min</co>！1日に5回しか使用できませんよ~"
+msgstr "タイムアウト！勉強時間を一時停止したい場合は、ストップウォッチで最大<co>10 min</co>まで一時休憩をとることができます！1日に最大5回まで使えます。"
 
 #: api/v2/currency/api.py:732
 msgid "能让休息期延长的大课间！休息时点击黑板上的铃铛，最多可以延长<co>120min</co>，一天只能使用<co>2次</co>哦~"
-msgstr "休息期間を延長できる大セッション！休憩中に黒板の鈴をタップすると、最大120 min<co>まで延長でき、1日に2回しか使用できませんよ~"
+msgstr "昼休みチャイムは休息期間を延長することができます！休憩中に黒板の鈴をクリックすると、最大120 min<co>まで休憩時間が延長されます。1日に最大2回まで使えます。"
 
 #: api/v2/currency/api.py:735
 msgid "可以听白噪音的播放器！注意，播放器是有使用时长的哦，只有播放时才会计算哈！当前限购一件～"
-msgstr "ホワイトノイズが聴けるプレーヤー！注意して、プレーヤーは使用時間が長いので、再生する時だけ計算します！現在1点限り～"
+msgstr "ホワイトノイズを再生するプレーヤーです！プレーヤーは使用時間が制限されており、再生する際にのみ使用時間がカウントされます。プレーヤー本体はお一人様1点までです。"
 
 #: api/v2/currency/api.py:740
 msgid "白噪音购买后永久有效，但需要播放器才能播哦！"
-msgstr "ホワイトノイズは購入後永久に有効ですが、プレーヤーが必要ですよ！"
+msgstr "購入したホワイトノイズ(作業用BGM)には有効期限がありません。再生するためにはプレーヤーが必要です。"
 
 #: api/v2/currency/api.py:747
 msgid "想要传小纸条，来这里买！发一次会消耗一张，<co>50张</co>打包出售~"
-msgstr "メモを伝えようと思って、ここに買いに来ました！1回に1枚消費されますが、<co>50枚</co>パック販売~"
+msgstr "メッセージを送りたいならこれが必須ですね！1回に1枚消費されますが、<co>50枚</co>パックで販売中です~"
 
 #: api/v2/currency/api.py:752
 msgid "用小锤锤，锤Ta来学习！锤一次消耗一个，<co>10个</co>打包出售~"
-msgstr "ハンマー、ハンマーTaで勉強！ハンマーは1回に1個消費され、<co>は10個</co>パック販売~"
+msgstr "ハンマー、ハンマーTaで勉強！ハンマーは1回に1個消費され、<co>は10個</co>パック販売~"//pass
 
 #: api/v2/currency/api.py:757
 msgid "提前完成任务了？用早休铃可以提前结束本次专注，不会算溜号哦！"
-msgstr "早めに任務を完成しましたか。早休鈴で今回の集中を早めに終えることができて、抜け出すことはできませんよ！"
+msgstr "タスクが予定よりも早く完了したのですか？前倒し休憩チャイムは今回の勉強を早めに終えることができます！"
 
 #: api/v2/currency/api.py:759
 msgid "涂改笔"
-msgstr "筆を直す"
+msgstr "修正ペン"
 
 #: api/v2/currency/api.py:760
 msgid "不小心选错了专注目标？涂改笔可以帮你，在日记统计的日程里修改哦！"
-msgstr "集中目標を間違えて選んでしまった？ペンを塗り替えることで、日記集計のスケジュールを修正することができますよ！"
+msgstr "学習目標を間違ってしまいましたか？修正ペンを使用して統計結果のスケジュール画面から目標を変更することができます！"
 
 #: api/v2/currency/api.py:763
 msgid "一张券对应一次免费额度外的睡眠次数哦，注意遵守时间入睡和起床，不要被踢出啦！"
-msgstr "1枚の券は1回の無料枠外の睡眠回数に対応していますよ。時間を守って寝て起きて、蹴られないように気をつけてください。"
+msgstr "無料の睡眠回数を使い切った場合、1枚のチケットで就寝することができます。予定の睡眠計画を守って、早寝早起きを心がけましょう。"
 
 #: api/v2/currency/api.py:766
 msgid "每天15次的加油额度用完后，可以用加油卡补充哦！"
-msgstr "1日15回の給油枠を使い切ったら、給油カードで補充できますよ！"
+msgstr "1日15回の応援回数を使い切ったら、応援カードを補充することができます！"
 
 #: api/v2/currency/api.py:768 api/v3/cheer/api.py:154
 msgid "好梦卡"
-msgstr "いい夢カード"
+msgstr "良い夢カード"
 
 #: api/v2/currency/api.py:769
 msgid "每天15次的好梦额度用完后，可以用好梦卡补充哦！"
-msgstr "1日15回のいい夢枠を使い切ったら、いい夢カードで補充できますよ！"
-
+msgstr "1日15回の良い夢回数を使い切ったら、良い夢カードを補充することができます！"
+// TODO: 820表钻买的话ok 买钻石的话改成【ダイヤを購入する】
 #: api/v2/currency/api.py:926 api/v2/currency/api.py:2071
 #: models/currency.py:165 models/record.py:26 models/record.py:87
 msgid "Co钻购买"
-msgstr "Coドリル購入"
+msgstr "ダイヤで購入"
 
 #: api/v2/currency/api.py:1119
 msgid "体力值"
@@ -825,11 +825,11 @@ msgstr "体力値"
 
 #: api/v2/currency/api.py:1298
 msgid "你没有小纸条了，去小卖部买些吧！"
-msgstr "あなたはメモを持っていないから、売店に行って買ってください。"
+msgstr "メッセージを送るためのメモ用紙が持っていません。購買部で買いましょう。"
 
 #: api/v2/currency/api.py:1300
 msgid "你没有小锤锤了，去小卖部买些吧！"
-msgstr "ハンマーがないから、売店に行って買ってきなさい。"
+msgstr "ハンマーがないから、売店に行って買ってきなさい。"//pass
 
 #: api/v2/currency/api.py:1752 models/fragrance.py:104 models/record.py:25
 #: models/record.py:77
@@ -866,7 +866,7 @@ msgstr "表情"
 
 #: api/v2/figure/api.py:61 models/figure.py:140
 msgid "刘海"
-msgstr "トップ"
+msgstr "前髪"
 
 #: api/v2/figure/api.py:62 models/figure.py:140
 msgid "发型"
@@ -874,11 +874,11 @@ msgstr "ヘアスタイル"
 
 #: api/v2/figure/api.py:63 models/figure.py:140
 msgid "上装"
-msgstr "に服を着せる"
+msgstr "トップス"
 
 #: api/v2/figure/api.py:64 models/figure.py:140
 msgid "下装"
-msgstr "に服を着せる"
+msgstr "ボトムス"
 
 #: api/v2/figure/api.py:65 models/figure.py:140
 msgid "袜子"
@@ -890,11 +890,11 @@ msgstr "くつ"
 
 #: api/v2/figure/api.py:67 models/figure.py:140
 msgid "配饰"
-msgstr "に飾りを付ける"
+msgstr "アクセサリー"
 
 #: api/v2/im/api.py:436
 msgid "随便写点东西"
-msgstr "適当に物を書く"
+msgstr "適当に物を書く"//pass
 
 #: api/v2/im/api.py:436
 msgid "推送文案"
@@ -906,7 +906,7 @@ msgstr "累計自習が8 hを超えたり、自習日数が5日を超えたり�
 
 #: api/v2/im/api.py:824 api/v2/im/api.py:876
 msgid "卧谈会"
-msgstr "密談会"
+msgstr "寝る前の雑談会"
 
 #: api/v2/im/api.py:888
 msgid "聊天室"
@@ -914,7 +914,7 @@ msgstr "チャットルーム"
 
 #: api/v2/im/api.py:900
 msgid "课间闲聊"
-msgstr "授業中の雑談"
+msgstr "雑談"
 
 #: api/v2/im/api.py:949
 msgid ""
@@ -932,7 +932,21 @@ msgid ""
 "另外，公告栏里有很多进行中的活动，可以赚Co钻Co币，欢迎参加！\n"
 "\n"
 "最后，祝你在CoStudy不断向上，成为更好的自己。"
-msgstr "最後に、CoStudyで向上し続けて、より良い自分になってください。"
+msgstr ""
+"ようこそCoStudy自習室へ、私はCoちゃんです。\n"
+"\n"
+"CoStudy自習室で出会った友達と一緒に経験を積み重ねながら、共に同じ夢を追いかけましょう。\n"
+"\n"
+"ご不明な点がございましたら、私のアイコンをクリックして、【お問い合わせ】フォームよりお気軽にお問い合わせください。また、ホームページの案内所でよくあるご質問（FAQ）をご確認いただけます。\n"
+"\n"
+"もしバグの報告や製品の操作性や使用感などについてのご意見ががありましたら、案内所の【フィードバック】から送信することができます。お送りいただいたフィードバックは、CoStudy自習室の改善に役立てさせていただきます。すべてのフィードバックに返信することはできかねますが、いただいたフィードバックは必ず確認いたします。\n"
+"\n"
+"CoStudy自習室のメッセージ機能や投稿を利用する際には、違法なコンテンツや極端な誹謗中傷を含む発言を行わないようお願いいたします。\n"
+"たとえ顔は見えなくても、スマホの向こう側にも同じ人間がいることを想像し、ルールやモラルを意識した、正しい利用を心がけましょう\n"
+"\n"
+"また公式イベントに参加すると、コインとダイヤを獲得するチャンスがあります！\n"
+"\n"
+"最後に、自分を信して、自分自身の最高を目指してください。学習をエンジョイしましょう"
 
 #: api/v2/report/api.py:29 models/app_version.py:26 models/feedback.py:49
 #: models/phoneNumber.py:34 models/police_office.py:41
@@ -943,42 +957,42 @@ msgstr "その他"
 #: api/v2/report/api.py:29 models/police_office.py:41
 #: models/police_office.py:72
 msgid "垃圾营销"
-msgstr "スパムマーケティング"
+msgstr "スパム"
 
 #: api/v2/report/api.py:29 models/police_office.py:41
 #: models/police_office.py:72
 msgid "涉黄信息"
-msgstr "黄に関する情報"
+msgstr "異性交際/出会い系目的"
 
 #: api/v2/report/api.py:29 models/police_office.py:41
 #: models/police_office.py:72
 msgid "人身攻击"
-msgstr "人身攻撃"
+msgstr "誹謗中傷"
 
 #: api/v2/report/api.py:29 models/police_office.py:41
 #: models/police_office.py:72
 msgid "有害信息"
-msgstr "有害情報"
+msgstr "不適切な発言"
 
 #: api/v2/report/api.py:29 models/police_office.py:41
 #: models/police_office.py:72
 msgid "违法信息"
-msgstr "違法情報"
+msgstr "違法な活動および規制された物品"
 
 #: api/v2/report/api.py:29 models/police_office.py:41
 #: models/police_office.py:72
 msgid "诈骗信息"
-msgstr "詐欺情報"
+msgstr "詐欺行為"
 
 #: api/v2/report/api.py:29 models/police_office.py:41
 #: models/police_office.py:72
 msgid "虚假信息"
-msgstr "虚偽の情報"
+msgstr "デマ投稿、虚偽の情報"
 
 #: api/v2/report/api.py:30 models/police_office.py:42
 #: models/police_office.py:73
 msgid "挂机占座"
-msgstr "長時間座席を占有する"
+msgstr "長時間放置する"
 
 #: api/v2/report/api.py:213 api/v2/report/api.py:404 api/v2/report/api.py:408
 #: api/v2/report/api.py:455 api/v2/report/api.py:1233 api/v2/report/api.py:1237
@@ -988,18 +1002,18 @@ msgstr "長時間座席を占有する"
 #: api/v6/wall/api.py:680 models/user.py:210 models/user.py:234
 msgid "自由中"
 msgstr "フリーランス・フリーター"
-
+// TODO：需要使用场景 大概率pass不用这个
 #: api/v2/report/api.py:373
 msgid "我："
-msgstr "私："
-
+msgstr "私："//pass
+// TODO：需要使用场景 大概率pass不用这个
 #: api/v2/report/api.py:373
 msgid "他："
-msgstr "彼："
+msgstr "彼："//pass
 
 #: api/v2/report/api.py:387 api/v2/report/api.py:903 api/v2/report/api.py:914
 msgid "头像"
-msgstr "アイコン"
+msgstr "プロフィール写真"
 
 #: api/v2/report/api.py:387 api/v2/report/api.py:903 api/v2/report/api.py:914
 msgid "昵称"
@@ -1007,56 +1021,56 @@ msgstr "ニックネーム"
 
 #: api/v2/report/api.py:387
 msgid "备考目标"
-msgstr "備考目標"
+msgstr "長期の学習目標"
 
 #: api/v2/report/api.py:387
 msgid "个性签名"
-msgstr "個性的な署名"
+msgstr "自己紹介"
 
 #: api/v2/report/api.py:388
 msgid "所属学校"
-msgstr "所属校"
-
+msgstr "学校"
+// TODO：需要使用场景{} {}内容是什么
 #: api/v2/report/api.py:466 api/v5/report/api.py:118
 msgid "{} {}，已关入{}天，"
-msgstr "{}{}は、{}日にシャットダウンされています。"
+msgstr "{}{}は、{}日にシャットダウンされています。"//pass
 
 #: api/v2/report/api.py:588
 msgid "建立的教室"
-msgstr "設立された教室"
+msgstr "の教室"
 
 #: api/v2/report/api.py:646 api/v2/report/api.py:1029
 msgid "，期限{}天"
 msgstr "、期間{}日"
-
+// TODO：需要使用场景、表动词且和1051连用为 【修改期限，改为{}天】的话ok 否则再议
 #: api/v2/report/api.py:651 api/v2/report/api.py:1034
-msgid "修改期限"
+msgid "期限wo"
 msgstr "修正期間"
 
 #: api/v2/report/api.py:652 api/v2/report/api.py:1035
 msgid "，改为{}天"
-msgstr "、日に変更"
+msgstr "{}日に変更する。"
 
 #: api/v2/report/api.py:657 api/v2/report/api.py:1040
 msgid "手动放出"
-msgstr "手動放出"
-
+msgstr "手動で解除する"
+// TODO：需要使用场景
 #: api/v2/report/api.py:671 api/v2/report/api.py:1054
 msgid "改为"
-msgstr "に改心させる"
-// TODO：使用场景
+msgstr "に"
+// TODO：需要使用场景
 #: api/v2/report/api.py:704
 msgid "{}关入，当前期限{}天，已关{}天，{}放出。"
-msgstr "{}オフ、現在の期限{}日、オフ{}日、{}放出。"
+msgstr "{}にから、現在の期限は{}日、経過{}日、{}に解除する。"
 
 #: api/v2/report/api.py:754 api/v2/report/api.py:929 api/v2/report/api.py:933
 #: api/v2/report/api.py:982
 msgid "开放中"
 msgstr "オープン中"
-
+// TODO：主语是人，动词是拉黑的话ok 否则再议
 #: api/v2/report/api.py:757 api/v2/report/api.py:935
 msgid "关入"
-msgstr "閉じる"
+msgstr "ブロック"//pass
 
 #: api/v2/report/api.py:903 api/v2/report/api.py:914
 msgid "教室id"
@@ -1068,7 +1082,7 @@ msgstr "教室の背景"
 
 #: api/v2/report/api.py:904
 msgid "口令提示"
-msgstr "パスワードのヒント"
+msgstr "合言葉のヒント"
 
 #: api/v2/report/api.py:914
 msgid "公告栏内容"
@@ -1081,48 +1095,48 @@ msgstr "{}{}、閉じられた{}日、"
 #: api/v2/report/api.py:1087
 msgid "{}关闭，当前期限{}天，已关{}天，{}放出。"
 msgstr "{}が閉じ、現在の期限{}日、閉まって{}日、{}が放出されます。"
-// TODO：
+
 #: api/v2/report/api.py:1281
 msgid "好好学习，天天向上"
-msgstr "よく勉強して、毎日向上します"
+msgstr "勉強に励んで日々向上しましょう"
 
 #: api/v2/report/api.py:1282 api/v2/user_info/api.py:1688
 #: api/v2/user_info/api.py:1810 api/v5/user/api.py:162
 #: api/v5/user/safe_api.py:145
 msgid "Co用户-"
-msgstr "Coユーザー-"
+msgstr "ユーザー-"
 
 #: api/v2/share/api.py:41 api/v2/share/api.py:90
 msgid "已经初始化过啦"
 msgstr "初期化済み"
-
+// TODO：后接金额的话ok 否则再议
 #: api/v2/study/api.py:373
 msgid "自习发放"
-msgstr "自習リリース"
+msgstr "自習で取得した"
 
 #: api/v2/todo/api.py:76
 msgid "单击完成该待办"
-msgstr "「≪終了｜Finish｜emdw≫」をクリックして保留中"
+msgstr "クリックしてタスクを完了する"
 
 #: api/v2/todo/api.py:77
 msgid "双击给待办打叉"
-msgstr "ダブルクリックして保留中にフォークを付ける"
+msgstr "ダブルクリックすると、タスクに×を付ける"
 
 #: api/v2/todo/api.py:78
 msgid "左滑右滑翻动日期"
-msgstr "左スライド右スライド反転日付"
+msgstr "左/右スワイプして日付を変更する"
 
 #: api/v2/todo/api.py:79
 msgid "点击上方加号增加待办"
-msgstr "上のプラス記号をクリックして保留を追加"
-
+msgstr "上のプラスのアイコンをクリックしてタスクを追加する"
+// TODO：之前也有这个问题来着，监督功能没法缩写成【督】一个字
 #: api/v2/todo/api.py:80
 msgid "点击【督】添加监督待办"
-msgstr "【督】をクリックして監督を追加します"
+msgstr "【督】をクリックして監督を追加します" //pass
 
 #: api/v2/todo/api.py:81
 msgid "在CoStudy完成一次自习"
-msgstr "CoStudyで自習を完了する"
+msgstr "CoStudyで一回の学習を完了する"
 
 #: api/v2/todo/api.py:84
 msgid "回顾本周，制定下周计划"
@@ -1130,7 +1144,7 @@ msgstr "今週を振り返り、来週の計画を立てる"
 
 #: api/v2/todo/api.py:88
 msgid "回顾本月，制定下月计划"
-msgstr "今月をふりかえって来月の計画を立てる"
+msgstr "今月を振り返り、来月の計画を立てる"
 
 #: api/v2/todo/api.py:92
 msgid "回顾本年，制定明年计划"
@@ -1142,19 +1156,19 @@ msgstr "今日の計画を立てる"
 
 #: api/v2/todo/api.py:101
 msgid "回顾一下今天吧～"
-msgstr "今日を振り返ってみよう～"
+msgstr "今日を振り返ってみましょう～"
 
 #: api/v2/todo/api.py:107
 msgid "长按可移动待办，左滑可删除/改期待办"
-msgstr "長押しで移動保留、左スライドで削除/変更保留"
+msgstr "長押しでタスクの並び順を編集することができます。また、左にスワイプするとタスクを削除/変更することができます。"
 
 #: api/v2/todo/api.py:110
 msgid "长按可删除/改期/移动某项待办"
-msgstr "削除/改期/移動保留中のアイテムを長押し"
+msgstr "長押しでタスクを削除/編集することができます"
 
 #: api/v2/todo/api.py:201
 msgid "完成一次自习"
-msgstr "1回の学習を完了する"
+msgstr "1回の学習を終える"
 
 #: api/v2/todo/api.py:1107 api/v2/todo/api.py:1117 api/v2/todo/api.py:1123
 msgid "今日待办"
@@ -1173,7 +1187,7 @@ msgstr "非公開"
 #: api/v2/user_info/api.py:1265
 #, python-format
 msgid "你当前已被禁言，至%s前，无法修改该设置"
-msgstr "あなたは現在禁止されており、%sまで設定を変更することはできません"
+msgstr "申し訳ございません。あなたは発言禁止になっています。%sまでは設定を変更することはできません。"
 
 #: api/v2/user_info/api.py:1288 api/v3/user/info_api.py:49 models/record.py:25
 #: models/record.py:79
@@ -1295,7 +1309,7 @@ msgstr "2022年度レポート"
 #: api/v3/app_activity/api.py:323 api/v3/app_activity/api.py:388
 #: models/activity.py:110 models/activity.py:113 models/activity.py:117
 msgid "Co币"
-msgstr "co貨幣"
+msgstr "コイン"
 
 #: api/v3/app_activity/api.py:325 api/v3/app_activity/api.py:390
 #: models/activity.py:117
@@ -1321,11 +1335,11 @@ msgstr "大学入試"
 
 #: api/v3/classroom/tag_api.py:177
 msgid "中考"
-msgstr "試験に合格する"//pass
+msgstr "高校受験"
 
 #: api/v3/classroom/tag_api.py:177
 msgid "小升初"
-msgstr "小昇初"//pass
+msgstr "中学受験"
 
 #: api/v3/classroom/tag_api.py:177
 msgid "考公考编"
@@ -1338,7 +1352,7 @@ msgstr "資格試験"
 #: api/v3/classroom/tag_api.py:177
 msgid "四六级"
 msgstr "英語検定"
-
+// TODO：日本不存在专升本的说法
 #: api/v3/classroom/tag_api.py:177
 msgid "专升本"
 msgstr "専科升本"//pass
@@ -1378,7 +1392,7 @@ msgstr "エンジニアリング"
 #: api/v3/classroom/tag_api.py:178
 msgid "互联网"
 msgstr "インターネット"
-// TODO： 不知道混合具体指什么和什么混 翻成其他了，不妥的话再议
+// TODO： 不知道混合具体指什么和什么混 翻成[其他]了，不妥的话再议
 #: api/v3/classroom/tag_api.py:179 api/v3/sleep/tag_api.py:233
 #: api/v5/restaurant/manage_api.py:46
 msgid "混合"
@@ -1463,7 +1477,7 @@ msgstr "明日からは 新しい自分に出会える。"
 #: api/v3/sleep/aim_api.py:118
 msgid "要像星星一样努力发光"
 msgstr "星のように頑張って輝こう"
-// TODO: 1468,1472,1476连成一句ok 【确定计划，将在】1点【入睡】2点【起床】 否贼再议
+// TODO: 1468,1472,1476连成一句ok 【确定计划，将在】1点【入睡】2点【起床】 否则再议
 #: api/v3/sleep/api.py:460
 msgid "确定计划，将在"
 msgstr "計画:"
@@ -1563,14 +1577,14 @@ msgid ""
 msgstr ""
 "本日の<co-title>自習チケット</co-title>が使い切れ、<co-title>コイン</co-title>または<co-title>ダイヤ</co-title>で購入する必要があります。"
 "<co-title>設定</co-title>で毎日の自習チケットの枚数を変更することが可能です。購入した自習チケットは<co-title>当日限り有効</co-title>となります。"
-
+// TODO：青春校园 不知道和学院通勤有什么区别，暂定青春校园=自然风 ，学院通勤=制服風，跟设计不符的话再议
 #: api/v3/user/clothes_shop_api.py:192 api/v3/user/clothes_shop_api.py:243
 msgid "青春校园"
-msgstr "青春キャンパス"
+msgstr "ナチュラル"
 
 #: api/v3/user/clothes_shop_api.py:192 api/v3/user/clothes_shop_api.py:243
 msgid "街头运动"
-msgstr "アメリカンカジュアル"
+msgstr "ストリート"
 
 #: api/v3/user/clothes_shop_api.py:192 api/v3/user/clothes_shop_api.py:243
 msgid "学院通勤"
@@ -1578,87 +1592,87 @@ msgstr "制服風"
 
 #: api/v3/user/clothes_shop_api.py:192 api/v3/user/clothes_shop_api.py:243
 msgid "简约舒适"
-msgstr "シンプル"
+msgstr "サーフ"
 
 #: api/v3/user/clothes_shop_api.py:192 api/v3/user/clothes_shop_api.py:243
 msgid "日系清新"
-msgstr "ナチュラル"
+msgstr "ノームコア"
 
 #: api/v3/user/clothes_shop_api.py:192
 msgid "嘻哈朋克"
-msgstr "ヒップホップ・パンク"
+msgstr "パンクロック"
 
 #: api/v3/user/clothes_shop_api.py:192 api/v3/user/clothes_shop_api.py:243
 msgid "哥特暗黑"
-msgstr "ゴシックダーク"
+msgstr "ゴシック系"
 
 #: api/v3/user/clothes_shop_api.py:192 api/v3/user/clothes_shop_api.py:243
 msgid "另类前卫"
-msgstr "別種の前衛"
+msgstr "モード"
 
 #: api/v3/user/clothes_shop_api.py:192
 msgid "霸道总裁"
-msgstr "覇道総裁"
+msgstr "コンサバ"
 
 #: api/v3/user/clothes_shop_api.py:192
 msgid "奶拽少年"
-msgstr "乳が少年を引っ張る"
+msgstr "アメカジ"
 
 #: api/v3/user/clothes_shop_api.py:192
 msgid "温润君子"
-msgstr "温潤な君子"
+msgstr "トラッド"
 
 #: api/v3/user/clothes_shop_api.py:192
 msgid "软萌弟弟"
-msgstr "ソフト萌え弟"
+msgstr "ベーシック"
 
 #: api/v3/user/clothes_shop_api.py:192
 msgid "古风公子"
-msgstr "古風な御曹司"
+msgstr "漢服風"
 
 #: api/v3/user/clothes_shop_api.py:193
 msgid "民国少爷"
-msgstr "民国の若旦那"
+msgstr "御曹司風"
 
 #: api/v3/user/clothes_shop_api.py:193
 msgid "英俊王子"
-msgstr "ハンサム王子"
+msgstr "王子風"
 
 #: api/v3/user/clothes_shop_api.py:210 api/v3/user/clothes_shop_api.py:261
 msgid "笑嘻嘻"
-msgstr "にこにこ笑う"
+msgstr "にこにこ"
 
 #: api/v3/user/clothes_shop_api.py:210 api/v3/user/clothes_shop_api.py:261
 msgid "哭唧唧"
-msgstr "すすり泣き"
+msgstr "泣く"
 
 #: api/v3/user/clothes_shop_api.py:210 api/v3/user/clothes_shop_api.py:261
 msgid "发呆ing"
-msgstr "ぼんやりしている"
+msgstr "ふわふわ"
 
 #: api/v3/user/clothes_shop_api.py:210 api/v3/user/clothes_shop_api.py:261
 msgid "气呼呼"
-msgstr "息がぷんぷんする"
+msgstr "怒る"
 
 #: api/v3/user/clothes_shop_api.py:210 api/v3/user/clothes_shop_api.py:261
 msgid "可爱鬼脸"
-msgstr "かわいい変顔"
+msgstr "変顔"
 
 #: api/v3/user/clothes_shop_api.py:210 api/v3/user/clothes_shop_api.py:261
 msgid "委屈屈"
-msgstr "悔しい思いをする"
+msgstr "つらい"
 
 #: api/v3/user/clothes_shop_api.py:210 api/v3/user/clothes_shop_api.py:261
 msgid "奋斗中"
-msgstr "奮闘中"
+msgstr "やる気満々"
 
 #: api/v3/user/clothes_shop_api.py:210 api/v3/user/clothes_shop_api.py:261
 msgid "酷拽脸"
-msgstr "クールに顔を引っ張る"
+msgstr "ドヤ顔"
 
 #: api/v3/user/clothes_shop_api.py:210 api/v3/user/clothes_shop_api.py:261
 msgid "恶龙咆哮"
-msgstr "ドラゴンクエスト咆哮"
+msgstr "叫ぶ"
 
 #: api/v3/user/clothes_shop_api.py:210 api/v3/user/clothes_shop_api.py:261
 msgid "其他表情"
@@ -1666,15 +1680,15 @@ msgstr "その他の表情"
 
 #: api/v3/user/clothes_shop_api.py:211 api/v3/user/clothes_shop_api.py:262
 msgid "齐刘海"
-msgstr "ぱっつん前髪"
+msgstr "ぱっつんバング"
 
 #: api/v3/user/clothes_shop_api.py:211 api/v3/user/clothes_shop_api.py:262
 msgid "中分"
-msgstr "中分"
+msgstr "センターパート"
 
 #: api/v3/user/clothes_shop_api.py:211 api/v3/user/clothes_shop_api.py:262
 msgid "斜刘海"
-msgstr "ななめバング"
+msgstr "斜めバング"
 
 #: api/v3/user/clothes_shop_api.py:211
 msgid "背头"
@@ -1682,23 +1696,23 @@ msgstr "オールバック"
 
 #: api/v3/user/clothes_shop_api.py:211
 msgid "板寸"
-msgstr "板寸"
+msgstr "ボウズ"
 
 #: api/v3/user/clothes_shop_api.py:211
 msgid "飞机头"
-msgstr "ひこうきヘッド"
+msgstr "リーゼント"
 
 #: api/v3/user/clothes_shop_api.py:211
 msgid "卷发"
-msgstr "カール"
+msgstr "パーマ"
 
 #: api/v3/user/clothes_shop_api.py:211 api/v3/user/clothes_shop_api.py:262
 msgid "二次元"
-msgstr "二次元"
+msgstr "ミディアム"
 
 #: api/v3/user/clothes_shop_api.py:212 api/v3/user/clothes_shop_api.py:263
 msgid "短发"
-msgstr "ショートヘア"
+msgstr "ショート"
 
 #: api/v3/user/clothes_shop_api.py:212 api/v3/user/clothes_shop_api.py:263
 msgid "长发"
@@ -1706,7 +1720,7 @@ msgstr "長髪"
 
 #: api/v3/user/clothes_shop_api.py:212 api/v3/user/clothes_shop_api.py:263
 msgid "束发"
-msgstr "髪を束ねる"
+msgstr "ポニーテール"
 
 #: api/v3/user/clothes_shop_api.py:212 api/v3/user/clothes_shop_api.py:263
 msgid "其他发型"
@@ -1730,39 +1744,39 @@ msgstr "カーディガン"
 
 #: api/v3/user/clothes_shop_api.py:213 api/v3/user/clothes_shop_api.py:264
 msgid "毛衣"
-msgstr "セーター着"
+msgstr "セーター"
 
 #: api/v3/user/clothes_shop_api.py:213 api/v3/user/clothes_shop_api.py:264
 msgid "吊带背心"
-msgstr "キャミソール"
+msgstr "タンクトップ"
 
 #: api/v3/user/clothes_shop_api.py:213
 msgid "运动衣"
-msgstr "ジャージ着"
+msgstr "ジャージ"
 
 #: api/v3/user/clothes_shop_api.py:213 api/v3/user/clothes_shop_api.py:264
 msgid "睡衣"
-msgstr "パジャマ着"
+msgstr "パジャマ"
 
 #: api/v3/user/clothes_shop_api.py:213 api/v3/user/clothes_shop_api.py:264
 msgid "其他上装"
-msgstr "その他のアップロード"
+msgstr "その他"
 
 #: api/v3/user/clothes_shop_api.py:214 api/v3/user/clothes_shop_api.py:265
 msgid "短裤"
-msgstr "半ズボン"
+msgstr "ショットパンツ"
 
 #: api/v3/user/clothes_shop_api.py:214 api/v3/user/clothes_shop_api.py:265
 msgid "长裤"
-msgstr "ズボン本"
+msgstr "ズボン"
 
 #: api/v3/user/clothes_shop_api.py:214 api/v3/user/clothes_shop_api.py:265
 msgid "九分裤"
-msgstr "九分ズボン"
+msgstr "九分丈パンツ"
 
 #: api/v3/user/clothes_shop_api.py:214 api/v3/user/clothes_shop_api.py:265
 msgid "其他下装"
-msgstr "その他のボトムアップ"
+msgstr "その他"
 
 #: api/v3/user/clothes_shop_api.py:215 api/v3/user/clothes_shop_api.py:266
 msgid "短袜"
@@ -1770,11 +1784,11 @@ msgstr "ソックス"
 
 #: api/v3/user/clothes_shop_api.py:215 api/v3/user/clothes_shop_api.py:266
 msgid "中筒袜"
-msgstr "ソックス"
+msgstr "クルー"
 
 #: api/v3/user/clothes_shop_api.py:215 api/v3/user/clothes_shop_api.py:266
 msgid "长筒袜"
-msgstr "ストッキング本"
+msgstr "オーバーニー"
 
 #: api/v3/user/clothes_shop_api.py:215 api/v3/user/clothes_shop_api.py:266
 msgid "其他袜子"
@@ -1782,7 +1796,7 @@ msgstr "その他の靴下"
 
 #: api/v3/user/clothes_shop_api.py:216
 msgid "球鞋"
-msgstr "にくつをはかせる"
+msgstr "スニーカー"
 
 #: api/v3/user/clothes_shop_api.py:216
 msgid "皮鞋"
@@ -1790,19 +1804,19 @@ msgstr "革靴"
 
 #: api/v3/user/clothes_shop_api.py:216 api/v3/user/clothes_shop_api.py:267
 msgid "靴子"
-msgstr "ブーツ足"
+msgstr "ブーツ"
 
 #: api/v3/user/clothes_shop_api.py:216 api/v3/user/clothes_shop_api.py:267
 msgid "板鞋"
-msgstr "板靴"
+msgstr "フラットシューズ"
 
 #: api/v3/user/clothes_shop_api.py:216 api/v3/user/clothes_shop_api.py:267
 msgid "布鞋"
-msgstr "布くつ"
+msgstr "エスパドリーユ"
 
 #: api/v3/user/clothes_shop_api.py:216 api/v3/user/clothes_shop_api.py:267
 msgid "凉鞋"
-msgstr "サンダル本"
+msgstr "サンダル"
 
 #: api/v3/user/clothes_shop_api.py:216
 msgid "拖鞋"
@@ -1826,19 +1840,19 @@ msgstr "フェイスアクセサリー"
 
 #: api/v3/user/clothes_shop_api.py:220 api/v3/user/clothes_shop_api.py:271
 msgid "项链"
-msgstr "ネックレス本"
-
+msgstr "ネックレス"
+// TODO：港系 这个概念不存在 翻成复古，和1870重复了 不妥再换，
 #: api/v3/user/clothes_shop_api.py:243
 msgid "复古港系"
-msgstr "レトロ港系"
+msgstr "古着"
 
 #: api/v3/user/clothes_shop_api.py:243
 msgid "甜酷女孩"
-msgstr "クールな女の子"
+msgstr "可愛い系"
 
 #: api/v3/user/clothes_shop_api.py:243
 msgid "温柔姐姐"
-msgstr "優しいお姉さん"
+msgstr "コンサバ"
 
 #: api/v3/user/clothes_shop_api.py:243
 msgid "软萌小妹"
@@ -1846,23 +1860,23 @@ msgstr "かわいい女の子"
 
 #: api/v3/user/clothes_shop_api.py:243
 msgid "甜系公主"
-msgstr "甘系プリンセス"
+msgstr "プリンセス風"
 
 #: api/v3/user/clothes_shop_api.py:243
 msgid "女王陛下"
-msgstr "女王陛下"
-
+msgstr "女王様風"
+// TODO：港系 这个概念不存在 翻成复古了 不妥再换，
 #: api/v3/user/clothes_shop_api.py:244
 msgid "民国小姐"
-msgstr "ミス民国"
+msgstr "古着"
 
 #: api/v3/user/clothes_shop_api.py:244
 msgid "古风美人"
-msgstr "古風な美人"
+msgstr "漢服風"
 
 #: api/v3/user/clothes_shop_api.py:244
 msgid "田园姑娘"
-msgstr "田園娘"
+msgstr "ナチュラル"
 
 #: api/v3/user/clothes_shop_api.py:262
 msgid "空气刘海"
@@ -1878,11 +1892,11 @@ msgstr "ワンピース"
 
 #: api/v3/user/clothes_shop_api.py:265
 msgid "短裙"
-msgstr "スカート枚"
+msgstr "ミニスカート"
 
 #: api/v3/user/clothes_shop_api.py:265
 msgid "中裙"
-msgstr "スカート"
+msgstr "ミディ丈スカート"
 
 #: api/v3/user/clothes_shop_api.py:265
 msgid "长裙"
@@ -1894,7 +1908,7 @@ msgstr "ハイヒール"
 
 #: api/v3/user/clothes_shop_api.py:267
 msgid "小皮鞋"
-msgstr "小さな靴"
+msgstr "革靴"
 
 #: api/v3/user/clothes_shop_api.py:304
 msgid ""
@@ -2028,7 +2042,7 @@ msgstr "CoStudyゲスト"
 #: api/v5/callback/safe_content_api.py:48
 msgid "Co用户"
 msgstr "CoStudyユーザー"
-// TODO：2039 北京时间->東京時間　替换注意时差 2042采取定级转入方式,需要具体说明
+// TODO：2039 北京时间->東京時間　替换注意时差 2051采取定级转入方式,需要具体说明
 #: api/v5/classroom/custom_manage_api.py:35
 msgid ""
 "1. 每日经营账本收入将在北京时间<co-title>次日凌晨5点前</co-title>同步到个人账本\n"
@@ -2143,20 +2157,20 @@ msgstr "通報されたグループ（ID：%s）はプラットフォームの�
 #, python-format
 msgid "你于%s"
 msgstr "あなたは%s"
-// TODO：
+
 #: api/v5/report/api.py:68
 msgid "你的举报已受到平台处理，感谢你帮助维护Co岛环境。"
-msgstr "あなたの通報はプラットフォームによって処理されており、Co島環境の維持に協力してくれてありがとうございます。"
+msgstr "あなたの通報内容はプラットフォームによって処理されました。ご協力いただき、ありがとうございました。"
 
 #: api/v5/report/api.py:90 api/v5/user/api.py:114 api/v5/user/user_info.py:136
 #: api/v5/user/user_info.py:196
 msgid "新的通知消息"
-msgstr "新しい通知"
-// TODO：
+msgstr "新しいお知らせ"
+
 #: api/v5/restaurant/api.py:1157
 #, python-format
 msgid "距离歇业还有%s，当前购买的有效时长超出范围啦，请重新选择。"
-msgstr "休業まであと%sあり、現在購入している有効期間が範囲を超えているので、もう一度選択してください。"
+msgstr "閉店まであと%sです。注文しているメニューは営業時間を超えるため、もう一度選択してください。"
 
 #: api/v5/restaurant/api.py:1279
 #, python-format
@@ -2210,7 +2224,7 @@ msgstr "文学"
 
 #: api/v5/restaurant/manage_api.py:43
 msgid "理工学"
-msgstr "理工学"
+msgstr "理工学類"
 
 #: api/v5/restaurant/manage_api.py:43
 msgid "哲学"
@@ -2246,7 +2260,7 @@ msgstr "カラオケ"
 
 #: api/v5/restaurant/manage_api.py:45
 msgid "交友"
-msgstr "友だちをつくる"
+msgstr "友だち募集"
 
 #: api/v5/restaurant/manage_api.py:45
 msgid "职场"
@@ -2300,12 +2314,14 @@ msgstr "大学院生"
 msgid ""
 "近期你在CoWall上的砖或发言，经审核，存在多次营销或不良信息或标签错配情况，现对你进行禁止使用CoWall至北京时间%s的处理。在禁止期间，你将无法查看与评论CoWall。"
 "\n"
-msgstr "\n"
-// TODO
+msgstr ""
+"アプリ内では不適切な宣伝やCoWallのタグがミスマッチなどの不適切な行為を繰り返すことが報告されたため、東京時間%sまでCoWall機能の利用が禁止されています。"
+"\n"
+
 #: api/v5/user/api.py:89
 #, python-format
 msgid "近期你在小纸条或群聊上的发言，经审核存在营销或不良信息，现对你进行禁言至北京时间%s的处理。在禁言期间，你将无法通过小纸条和群聊发送消息。"
-msgstr "最近のあなたのメモやグループチャットでの発言は、マーケティングや不良情報の存在を審査した結果、北京時間%sまで発言を禁止する処理を行っています。禁言期間中は、小さなメモやグループチャットでメッセージを送信することはできません。"
+msgstr "アプリ内のDMやグループチャットでの発言は、スパムや不適切な内容が報告されたため、東京時間%sまで発言禁止が適用されています。"
 
 #: api/v5/user/api.py:391
 msgid "今天"
@@ -2452,20 +2468,20 @@ msgstr "店舗（%s）%sのアイデンティティを付与"
 #, python-format
 msgid "有%d名禁入用户无法被添加"
 msgstr "%d名のユーザーはブロックされましたので、追加できません"
-
+// 3469和2473连用 【有%d名禁入用户无法被添加,其他用户添加成功】的话 删除2474句首的逗号，否则加回来
 #: api/v5/user/room_manager_api.py:518
 msgid ",其他用户添加成功~"
-msgstr "、他のユーザーの追加に成功しました~"
+msgstr "他のユーザーの追加に成功しました~"
 
 #: api/v5/user/safe_api.py:164
 #, python-format
 msgid "UPDATE tb_user SET nickname = 'Co用户' WHERE id = %d"
 msgstr "UPDATE tb_user SET nickname='Coユーザ'WHERE id=%d"//pass
-// TODO：场景
+
 #: api/v5/user/user_info.py:75 api/v5/user/user_info.py:154
 #, python-format
 msgid "你好，你于%s"
-msgstr "こんにちは、あなたは%s"
+msgstr "こんにちは、%sで"
 
 #: api/v5/user/user_info.py:89
 msgid "对绑定的微信进行了更换，请知悉。"
@@ -2485,11 +2501,11 @@ msgstr "QQをバインドする操作を行いましたので、ご了承くだ�
 // TODO：
 #: api/v5/user/user_info.py:117 api/v5/user/user_info.py:177
 msgid "若非本人操作，请尽快更换密码。\n"
-msgstr "本人が操作していない場合は、できるだけ早くパスワードを変更してください。\n"
-// TODO：
+msgstr "心当たりがない場合は、パスワードを変更してください。\n"
+
 #: api/v5/user/user_info.py:118 api/v5/user/user_info.py:178
 msgid "小Co提示大家：保护好自己的登录密码/验证码等，拒绝代号行为，若因自身原因导致盗号，平台将无法帮助追回。"
-msgstr "小さなCoは、自分のログインパスワード/認証コードなどを保護し、コードを拒否する行為、もし自分の原因でアカウントを盗むことになったら、プラットフォームは取り戻すのを助けることができません。"
+msgstr "CoちゃんからのTips: アカウントのパスワードは誰にも渡さないでください。トレード代行などによるアカウントの乗っ取りについてアカウント解凍のご対応いたしかねます。"
 
 #: api/v5/user/user_info.py:165
 msgid "进行了解绑微信操作，请知悉。"
@@ -2501,107 +2517,107 @@ msgstr "QQを縛る操作については、ご了承ください。"//pass
 
 #: api/v5/user/user_info.py:361
 msgid "高科技术"
-msgstr "ハイテク"
-
+msgstr "情報処理・インターネット"
+// TODO: 2523-2539 互联网类没有细分，pass
 #: api/v5/user/user_info.py:363
 msgid "互联网产品"
-msgstr "インターネット製品"
+msgstr "インターネット製品"//pass
 
 #: api/v5/user/user_info.py:364
 msgid "互联网技术"
-msgstr "インターネット技術"
+msgstr "インターネット技術"//pass
 
 #: api/v5/user/user_info.py:365
 msgid "互联网运营"
-msgstr "インターネット運営"
+msgstr "インターネット運営"//pass
 
 #: api/v5/user/user_info.py:366
 msgid "互联网设计"
-msgstr "インターネット設計"
+msgstr "インターネット設計"//pass
 
 #: api/v5/user/user_info.py:367
 msgid "高新科技其他"
-msgstr "ハイテクその他"
-// TODO：
+msgstr "ハイテクその他"//pass
+
 #: api/v5/user/user_info.py:368
 msgid "电子商务"
-msgstr "電子商取引"
+msgstr "WEBショップ・ECサイト"
 
 #: api/v5/user/user_info.py:369
 msgid "网络游戏行业"
-msgstr "オンラインゲーム業界"
+msgstr "ゲーム・アミューズメント"
 
 #: api/v5/user/user_info.py:370
 msgid "互联网软件行业"
-msgstr "インターネットソフトウェア業界"
+msgstr "ソフトウェア"
 
 #: api/v5/user/user_info.py:371
 msgid "计算机硬件行业"
-msgstr "コンピュータハードウェア業界"
-// TODO：
+msgstr "ハードウェア"
+
 #: api/v5/user/user_info.py:372
 msgid "通信业"
-msgstr "通信業"
-
+msgstr "情報通信業"
+// TODO: 2563-2591 传媒类基本都是クリエイティブ 不会分这么细，大部分只能有加括号的方式说明
 #: api/v5/user/user_info.py:376
 msgid "文化传媒"
-msgstr "文化メディア"
+msgstr "メディア"
 
 #: api/v5/user/user_info.py:378
 msgid "新闻出版业"
-msgstr "新聞出版業"
-// TODO：
+msgstr "マスコミ"
+
 #: api/v5/user/user_info.py:379
 msgid "影视行业"
-msgstr "映画・テレビ業界"
-// TODO：
+msgstr "クリエイティブ（編集・制作系）"
+
 #: api/v5/user/user_info.py:380
 msgid "设计行业"
-msgstr "デザイン業界"
-// TODO：
+msgstr "クリエイティブ（デザイン）"
+
 #: api/v5/user/user_info.py:381
 msgid "广告创业行业"
-msgstr "広告創業業界"
-// TODO：
+msgstr "クリエイティブ(広告・グラフィック)"
+
 #: api/v5/user/user_info.py:382
 msgid "公关/会展行业"
-msgstr "広報/展示業界"
-// TODO：
+msgstr "クリエイティブ(イベント)"
+
 #: api/v5/user/user_info.py:383
 msgid "音乐行业"
-msgstr "音楽業界"
-// TODO：
+msgstr "クリエイティブ(音響)"
+
 #: api/v5/user/user_info.py:384
 msgid "文化传媒其他"
-msgstr "文化メディアその他"
-// TODO：
+msgstr "クリエイティブ(編集・制作)"
+// TODO：2595-2619 金融类都是 コンサルタント・金融 不会分这么细，大部分只能有加括号的方式说明
 #: api/v5/user/user_info.py:390
 msgid "银行业"
-msgstr "銀行業"
-// TODO：
+msgstr "金融(金融事務)"
+
 #: api/v5/user/user_info.py:391
 msgid "资本投资"
-msgstr "資本投資"
+msgstr "金融(投資銀行)"
 
 #: api/v5/user/user_info.py:392
 msgid "证券投资"
-msgstr "証券投資"
+msgstr "金融(運用業務)"
 
 #: api/v5/user/user_info.py:393
 msgid "保险业"
-msgstr "保険業"
-// TODO：
+msgstr "金融(金融商品開発)"
+
 #: api/v5/user/user_info.py:394
 msgid "信贷行业"
-msgstr "クレジット業界"
-// TODO：
+msgstr "金融(トレーダー・ディーラー)"
+
 #: api/v5/user/user_info.py:395
 msgid "审计行业"
-msgstr "監査業界"
-// TODO：
+msgstr "金融(公認会計士)"
+
 #: api/v5/user/user_info.py:396
 msgid "金融其他"
-msgstr "金融その他"
+msgstr "金融(その他)"
 
 #: api/v5/user/user_info.py:400
 msgid "服务业"
@@ -2609,71 +2625,71 @@ msgstr "サービス業"
 
 #: api/v5/user/user_info.py:402
 msgid "餐饮行业"
-msgstr "飲食業界"
+msgstr "小売、フード"
 
 #: api/v5/user/user_info.py:403
 msgid "酒店行业"
-msgstr "ホテル業界"
+msgstr "ホテル・宿泊施設サービス"
 
 #: api/v5/user/user_info.py:404
 msgid "旅游行业"
-msgstr "観光業界"
-
+msgstr "旅行・ホテル(その他)"
+// TODO： 无此分类 根据性质可以归到设计或者旅游类，否则只能算其他服务类
 #: api/v5/user/user_info.py:405
 msgid "景观行业"
-msgstr "景観業界"
-
+msgstr "サービス業（その他）" //pass
+// TODO： 无此分类  只能算其他服务类
 #: api/v5/user/user_info.py:406
 msgid "体育健身行业"
-msgstr "スポーツフィットネス業界"
+msgstr "サービス業（その他）"//pass
 
 #: api/v5/user/user_info.py:407
 msgid "娱乐休闲行业"
-msgstr "レジャー業界"
+msgstr "エンターテインメント、芸能"
 
 #: api/v5/user/user_info.py:408
 msgid "服务业其他"
-msgstr "サービス業その他"
-
+msgstr "サービス業（その他）"
+// TODO： 无此分类  只能算其他服务类
 #: api/v5/user/user_info.py:412
 msgid "商业服务"
-msgstr "ビジネスサービス"
+msgstr "サービス業（その他）"
 
 #: api/v5/user/user_info.py:414
 msgid "法律行业"
-msgstr "法律業界"
-// TODO：
+msgstr "弁護士、司法書士、行政書士"
+
 #: api/v5/user/user_info.py:415
 msgid "咨询分析行业"
-msgstr "コンサルティング分析業界"
+msgstr "コンサルティング"
 
 #: api/v5/user/user_info.py:416
 msgid "财务业"
-msgstr "財務業"
-
+msgstr "コンサルタント（業務プロセス）"
+// TODO： 无此分类  只能算其他服务类
 #: api/v5/user/user_info.py:417
 msgid "商业服务其他"
-msgstr "ビジネスサービスその他"
-// TODO：
+msgstr "サービス業（その他）"
+// TODO： 医疗服务和 2679 临床医疗行业是包含关系，感觉不匹配
 #: api/v5/user/user_info.py:421
 msgid "医疗服务"
 msgstr "医療サービス"
 // TODO：
 #: api/v5/user/user_info.py:423
 msgid "临床医疗行业"
-msgstr "臨床医療業界"
-// TODO：
+msgstr "医師、看護師"
+// TODO： 翻成了药剂师 不是生产药品的行业 ，不妥的话再议
 #: api/v5/user/user_info.py:424
 msgid "制药行业"
-msgstr "製薬業界"
-// TODO：
+msgstr "管理薬剤師・薬剤師"
+
 #: api/v5/user/user_info.py:425
 msgid "保健行业"
-msgstr "ヘルスケア業界"
+msgstr "ケアマネジャー"
 
 #: api/v5/user/user_info.py:426
 msgid "美容行业"
-msgstr "美容業界"
+msgstr "理容師・美容師"
 
 #: api/v5/user/user_info.py:427
 msgid "医疗器材业"
@@ -2681,71 +2697,71 @@ msgstr "医療器材業"
 
 #: api/v5/user/user_info.py:428
 msgid "生物工程"
-msgstr "バイオエンジニアリング"
-
+msgstr "バイオ"
+// TODO： 无此分类  要么=2707的护理类 ，要么算其他服务类
 #: api/v5/user/user_info.py:429
 msgid "疗养服务"
-msgstr "療養サービス"
+msgstr "サービス業（その他）"
 
 #: api/v5/user/user_info.py:430
 msgid "护理服务"
-msgstr "介護サービス"
-
+msgstr "介護・福祉事業"
+// TODO：和2647的娱乐休闲行业 重复的
 #: api/v5/user/user_info.py:434
 msgid "艺术娱乐"
-msgstr "アートエンターテインメント"
+msgstr "アートエンターテインメント"// pass
 
 #: api/v5/user/user_info.py:436
 msgid "创意艺术行业"
-msgstr "クリエイティブアート業界"
-
+msgstr "クリエイティブ（アート）"
+// TODO：和2583的公关/会展行业  重复的
 #: api/v5/user/user_info.py:437
 msgid "策展行业"
-msgstr "企画展業界"
-
+msgstr "企画展業界"// pass
+// TODO： 无此分类  只能算其他服务类
 #: api/v5/user/user_info.py:438
 msgid "彩票行业"
-msgstr "宝くじ業界"
-
+msgstr "サービス業（その他）"
+// TODO： 和2647的娱乐休闲行业 重复的
 #: api/v5/user/user_info.py:439
 msgid "艺术娱乐其他"
-msgstr "アートエンターテインメントその他"
+msgstr "アートエンターテインメントその他"// pass
 
 #: api/v5/user/user_info.py:443
 msgid "制造加工"
-msgstr "製造加工"
+msgstr "製造・メーカー"
 
 #: api/v5/user/user_info.py:445
 msgid "食品饮料业"
-msgstr "食品飲料業"
+msgstr "工場生産・製造（食品）"
 
 #: api/v5/user/user_info.py:446
 msgid "纺织皮革业"
-msgstr "紡績皮革業"
+msgstr "工場生産・製造（素材）"
 
 #: api/v5/user/user_info.py:447
 msgid "服装业"
-msgstr "アパレル業"
-
+msgstr "工場生産・製造（アパレル・ファッション）"
+// TODO： 无此分类  只能算其他制造加工
 #: api/v5/user/user_info.py:448
 msgid "烟草业"
-msgstr "たばこ業"
-
+msgstr "工場生産・製造（その他）"
+// TODO： 无此分类  只能算其他制造加工
 #: api/v5/user/user_info.py:449
 msgid "造纸业"
-msgstr "製紙業"
-
+msgstr "製紙業"// pass
+// TODO： 印刷业上级属于设计传媒行业 不是工业制造业
 #: api/v5/user/user_info.py:450
 msgid "印刷业"
-msgstr "印刷業"
+msgstr "クリエイティブ（出版・印刷）"
 
 #: api/v5/user/user_info.py:451
 msgid "化工业"
-msgstr "化学工業"
+msgstr "工場生産・製造（化学）"
 
 #: api/v5/user/user_info.py:452
 msgid "汽车行业"
-msgstr "自動車業界"
+msgstr "工場生産・製造（自動車）"
 
 #: api/v5/user/user_info.py:453
 msgid "家具行业"
@@ -2753,176 +2769,176 @@ msgstr "家具業界"
 
 #: api/v5/user/user_info.py:454
 msgid "电子电器业"
-msgstr "電子機器業"
+msgstr "工場生産・製造（電気・電子・半導体設計）"
 
 #: api/v5/user/user_info.py:455
 msgid "机械设备业"
-msgstr "機械設備業"
-
+msgstr "工場生産・製造（設備工事）"
+// TODO： 无此分类  等于化工业
 #: api/v5/user/user_info.py:456
 msgid "塑料工业"
-msgstr "プラスチック工業"
+msgstr "工場生産・製造（化学）"// pass
 
 #: api/v5/user/user_info.py:457
 msgid "金属加工业"
-msgstr "金属加工業"
-
+msgstr "工場生産・製造（材料系）"
+// TODO： 无此分类   只能算其他制造加工
 #: api/v5/user/user_info.py:458
 msgid "军工行业"
-msgstr "軍需産業"
+msgstr "工場生産・製造（その他）"
 
 #: api/v5/user/user_info.py:459
 msgid "开采冶金业"
-msgstr "冶金採掘業"
-
+msgstr "鉱業、採石業"
+// TODO： 前面已经有不少其他制造加工了 注意重复
 #: api/v5/user/user_info.py:460
 msgid "制造加工其他"
-msgstr "製造加工その他"
+msgstr "工場生産・製造（その他）"
 
 #: api/v5/user/user_info.py:464
 msgid "地产建筑"
-msgstr "土地建築"
+msgstr "建設コンサルタント"
 
 #: api/v5/user/user_info.py:466
 msgid "房地产行业"
 msgstr "不動産業界"
-
+// TODO：装饰装潢业是装修设计的话上级属于设计传媒行业 不是房地
 #: api/v5/user/user_info.py:467
 msgid "装饰装潢业"
-msgstr "装飾装飾業"
+msgstr "クリエイティブ（空間・ディスプレイ）"
 
 #: api/v5/user/user_info.py:468
 msgid "物业服务"
-msgstr "不動産サービス"
-
+msgstr "不動産管理"
+// TODO： 无此分类  只能算地产建筑其他
 #: api/v5/user/user_info.py:469
 msgid "特殊建造业"
 msgstr "特殊建設業"
 
 #: api/v5/user/user_info.py:470
 msgid "建筑设备行业"
-msgstr "建築設備業界"
+msgstr "ビルの設備管理・保守"
 
 #: api/v5/user/user_info.py:471
 msgid "地产建筑其他"
-msgstr "土地建物その他"
-
+msgstr "その他不動産関連職"
+// TODO：其实和2831零售业是一回事 强行翻成2个词了...
 #: api/v5/user/user_info.py:475
 msgid "贸易零售"
-msgstr "貿易小売"
-
+msgstr "販売"
+// TODO：
 #: api/v5/user/user_info.py:477
 msgid "零售业"
-msgstr "小売業"
-
+msgstr "小売・流通"
+// TODO： 无此分类
 #: api/v5/user/user_info.py:478
 msgid "大宗交易"
-msgstr "大口取引"
+msgstr "大口取引"// pass
 
 #: api/v5/user/user_info.py:479
 msgid "进出口贸易"
-msgstr "輸出入貿易"
+msgstr "ルートセールス・渉外・外商"
 
 #: api/v5/user/user_info.py:480
 msgid "贸易零售其他"
-msgstr "貿易小売その他"
+msgstr "その他小売"
 
 #: api/v5/user/user_info.py:484
 msgid "公共事业"
-msgstr "公共事業"
+msgstr "公共サービス"
 
 #: api/v5/user/user_info.py:486
 msgid "政府机关行业"
-msgstr "官公庁業界"
+msgstr "公務員"
 
 #: api/v5/user/user_info.py:487
 msgid "文化教育行业"
-msgstr "文化教育業界"
-
+msgstr "教師・講師"
+// TODO： 无此分类
 #: api/v5/user/user_info.py:488
 msgid "航天产业"
-msgstr "宇宙産業"
+msgstr "宇宙産業"// pass
 
 #: api/v5/user/user_info.py:489
 msgid "科研行业"
-msgstr "科学研究業界"
-
+msgstr "応用研究・技術開発"
+// TODO： 无此分类,算公共事业
 #: api/v5/user/user_info.py:490
 msgid "给排水行业"
-msgstr "給排水業"
-
+msgstr "給排水業"// pass
+// TODO： 无此分类,算公共事业
 #: api/v5/user/user_info.py:491
 msgid "水利能源产业"
-msgstr "水利エネルギー産業"
-
+msgstr "水利エネルギー産業"// pass
+// TODO： 无此分类,算公共事业
 #: api/v5/user/user_info.py:492
 msgid "电力电网行业"
-msgstr "電力網業界"
-
+msgstr "電力網業界"// pass
+// TODO： 无此分类,算公共事业
 #: api/v5/user/user_info.py:493
 msgid "公共管理行业"
-msgstr "公共管理業界"
-
+msgstr "公共管理業界"// pass
+// TODO： 无此分类,算公共事业
 #: api/v5/user/user_info.py:494
-msgid "环境保护业"
+msgid "环境保护业"// pass
 msgstr "環境保全業"
-
+// TODO： 无此分类,算公共事业
 #: api/v5/user/user_info.py:495
 msgid "慈善公益行业"
-msgstr "慈善公益業界"
-
+msgstr "慈善公益業界"// pass
+// TODO： 无此分类,算公共事业
 #: api/v5/user/user_info.py:499
 msgid "交通仓储"
-msgstr "こうつうちょぞう"
-
+msgstr "こうつうちょぞう"// pass
+// TODO： 和2899重复
 #: api/v5/user/user_info.py:501
 msgid "邮政业"
-msgstr "郵便業"
-
+msgstr "郵便業"// pass
+// TODO：
 #: api/v5/user/user_info.py:502
 msgid "物流行业"
-msgstr "物流業界"
+msgstr "配送・宅配・セールスドライバー"// pass
 
 #: api/v5/user/user_info.py:503
 msgid "地面运输产业"
-msgstr "地上輸送産業"
-
+msgstr "運送ドライバー"
+// TODO： 无此分类
 #: api/v5/user/user_info.py:504
 msgid "铁路运输产业"
-msgstr "鉄道輸送産業"
-
+msgstr "鉄道輸送産業"// pass
+// TODO： 无此分类算公共事业
 #: api/v5/user/user_info.py:505
 msgid "管线运输产业"
-msgstr "パイプライン輸送産業"
+msgstr "パイプライン輸送産業"// pass
 
 #: api/v5/user/user_info.py:506
 msgid "航运业"
-msgstr "海運業"
-
+msgstr "運輸業"
+// TODO： 无此分类
 #: api/v5/user/user_info.py:507
 msgid "民用航运业"
-msgstr "民用海運業"
+msgstr "民用海運業"// pass
 
 #: api/v5/user/user_info.py:508
 msgid "交通仓储其他"
-msgstr "交通貯蔵その他"
+msgstr "倉庫作業・管理"
 
 #: api/v5/user/user_info.py:512
 msgid "农林牧渔"
-msgstr "農林牧畜漁業"
-
+msgstr "農業、林業、漁業"
+// TODO： 无此分类　都算农林
 #: api/v5/user/user_info.py:514
 msgid "种植业"
-msgstr "栽培業"
-
+msgstr "栽培業"// pass
+// TODO： 无此分类　都算农林
 #: api/v5/user/user_info.py:515
 msgid "畜牧养殖业"
-msgstr "畜産養殖業"
-
+msgstr "畜産養殖業"// pass
+// TODO： 无此分类　都算农林
 #: api/v5/user/user_info.py:516
 msgid "林业"
 msgstr "林業"
-
+// TODO： 无此分类　都算农林
 #: api/v5/user/user_info.py:517
 msgid "渔业"
 msgstr "漁業"
@@ -2933,11 +2949,11 @@ msgstr " "
 
 #: api/v5/wall/message_api.py:128
 msgid "小Co"
-msgstr "小Co"
+msgstr "Coちゃん"
 
 #: api/v5/wall/room_wall_api.py:117 api/v6/user/user_info_api.py:134
 msgid "课表"
-msgstr "教科書"
+msgstr "時間割り"
 
 #: api/v5/wall/room_wall_api.py:149 api/v6/user/user_info_api.py:175
 msgid "/熄灯时间"
@@ -2953,11 +2969,11 @@ msgstr "/24 h営業"
 
 #: api/v5/wall/room_wall_api.py:277
 msgid "教室"
-msgstr "きょうしつ"
+msgstr "教室"
 
 #: api/v5/wall/room_wall_api.py:279
 msgid "寝室"
-msgstr "ベッドルーム"
+msgstr "寮室"
 
 #: api/v5/wall/room_wall_api.py:281
 msgid "店铺"
@@ -2966,7 +2982,7 @@ msgstr "店舗"
 #: api/v5/wall/room_wall_api.py:282
 #, python-format
 msgid "你在%s%s的CoWall上发的砖（砖id：%d）被空间管理员置顶咯，快去看看吧！"
-msgstr "あなたが%s%sのCoWallで配った煉瓦（煉瓦id:%d）は空間管理者によって頂点に置かれています。早く見に行きましょう！"
+msgstr "あなたが%s%sのCoWallで配ったレンガ（レンガid:%d）は空間管理者によって頂点に置かれています。早く見に行きましょう！"
 // TODO：
 #: api/v5/wall/room_wall_api.py:435
 #, python-format
@@ -3034,11 +3050,11 @@ msgstr "最初の月"//pass
 
 #: api/v6/user/membership_api.py:194 api/v6/user/membership_api.py:290
 msgid "购买权限关闭，请联系CoStudy小助手"
-msgstr "購入権限が停止しました。CoStudyアシスタントに連絡してください"
+msgstr "購入権限が停止しました。CoStudyの運営までお問い合わせください。"
 
 #: api/v6/user/user_info_api.py:512
 msgid "学校保密"
-msgstr "学校秘密"
+msgstr "学校非公開"
 
 #: api/v6/user/user_info_api.py:525
 msgid "后"
@@ -3054,7 +3070,7 @@ msgstr "1未満"
 
 #: api/v6/user/user_info_api.py:608
 msgid "连续登岛*天"
-msgstr "連続上陸*日"
+msgstr "連続ログイン*日"
 
 #: api/v6/user/user_info_api.py:608
 msgid "连续自习*天"
@@ -3074,7 +3090,7 @@ msgstr "*眠りにつく"
 
 #: api/v6/user/user_info_api.py:608
 msgid "*起床"
-msgstr "*起きて"
+msgstr "*起き"
 // TODO：
 #: api/v6/wall/api.py:92
 #, python-format
@@ -3151,7 +3167,7 @@ msgstr "天猫"//pass
 #: models/classroom.py:311 models/sleep.py:175
 #, python-format
 msgid "专属位置7天仅允许修改一次,距离下次修改%s。"
-msgstr "排他的ロケーションは7日に1回のみ変更でき、次回の変更%sまでの距離です。"
+msgstr "排他的ロケーションは7日に1回のみ変更でき、次回の変更まで%s"
 
 #: models/currency.py:23 models/room.py:13 models/room.py:43 models/room.py:69
 msgid "默认"
@@ -3159,27 +3175,27 @@ msgstr "デフォルト"
 
 #: models/currency.py:23 models/record.py:25 models/record.py:73
 msgid "充值兑换"
-msgstr "チャージ交換"
+msgstr "チャージの引き換え"
 
 #: models/currency.py:23
 msgid "加油兑换"
-msgstr "給油交換"
+msgstr "応援の引き換え"
 
 #: models/currency.py:23
 msgid "购买自习券"
-msgstr "自習券を買う"
+msgstr "自習チケットの購入"
 
 #: models/currency.py:23
 msgid "购买任意门"
-msgstr "任意のドアを購入する"
+msgstr "勝手口ドアの購入"
 
 #: models/currency.py:23
 msgid "购买暂停器"
-msgstr "一時停止器の購入"
+msgstr "ストップウォッチの購入"
 
 #: models/currency.py:23
 msgid "购买大课间"
-msgstr "大セッションの購入"
+msgstr "昼休みチャイムの購入"
 
 #: models/currency.py:24
 msgid "邀请好友"
@@ -3187,15 +3203,15 @@ msgstr "友達を招待する"
 
 #: models/currency.py:24
 msgid "任务成就"
-msgstr "タスクの成果"
+msgstr "トロフィー"
 
 #: models/currency.py:24
 msgid "活动赠送"
-msgstr "イベント贈呈"
+msgstr "イベント獲得"
 
 #: models/currency.py:24
 msgid "专注奖励"
-msgstr "奨励に専念する"
+msgstr "学習獲得"
 
 #: models/currency.py:24
 msgid "购买播放器"
@@ -3215,95 +3231,95 @@ msgstr "体力値の購入"
 
 #: models/currency.py:26
 msgid "新建教室"
-msgstr "新規ルーム"
+msgstr "新規教室"
 
 #: models/currency.py:26
 msgid "续费教室"
-msgstr "ルームの更新"
+msgstr "教室期限の更新"
 
 #: models/currency.py:26
 msgid "升级教室"
-msgstr "クラスをアップグレードする"
+msgstr "教室のアップグレード"
 
 #: models/currency.py:26
 msgid "购买小纸条"
-msgstr "小さなメモを購入する"
+msgstr "メッセージの購入"
 
 #: models/currency.py:27
 msgid "购买小锤锤"
-msgstr "ハンマーを購入する"
+msgstr "ハンマーの購入"
 
 #: models/currency.py:28
 msgid "购买早休铃"
-msgstr "早休鈴の購入"
+msgstr "前倒し休憩チャイムの購入"
 
 #: models/currency.py:28
 msgid "赞助xx教室"
-msgstr "xx教室を協賛する"
+msgstr "xx教室への投げ銭"
 
 #: models/currency.py:28 models/currency.py:31
 msgid "收到xx的赞助"
-msgstr "xxから後援を受けた"
+msgstr "xxから投げ銭を受けた"
 
 #: models/currency.py:28
 msgid "完成引导自习"
-msgstr "ブート自習の完了"
+msgstr "自習の完了"
 
 #: models/currency.py:28
 msgid "装扮购买"
-msgstr "仮装して購入"
+msgstr "服の購入"
 
 #: models/currency.py:29
 msgid "购买涂改笔"
-msgstr "改筆の購入"
+msgstr "修正ペンの購入"
 
 #: models/currency.py:29
 msgid "登岛奖励"
-msgstr "登島奨励"
+msgstr "ログインのボーナス"
 
 #: models/currency.py:29
 msgid "购买睡眠券"
-msgstr "睡眠券を買う"
+msgstr "睡眠チケットの購入"
 
 #: models/currency.py:29
 msgid "睡眠奖励"
-msgstr "睡眠奨励"
+msgstr "睡眠獲得"
 
 #: models/currency.py:29
 msgid "邀请好友注册"
-msgstr "友達を招待して登録する"
+msgstr "友達を招待した"
 
 #: models/currency.py:30
 msgid "购买加油卡"
-msgstr "給油カードの購入"
+msgstr "応援カードの購入"
 
 #: models/currency.py:30
 msgid "购买好梦卡"
-msgstr "ドリームカードを購入"
+msgstr "良い夢カードの購入"
 
 #: models/currency.py:30
 msgid "新建寝室"
-msgstr "寝室を新築する"
+msgstr "新規寮室"
 
 #: models/currency.py:30
 msgid "续费寝室"
-msgstr "寝室を続ける"
+msgstr "寮室期限の更新"
 
 #: models/currency.py:30
 msgid "升级寝室"
-msgstr "寝室をグレードアップする"
+msgstr "寮室のアップグレード"
 
 #: models/currency.py:30
 msgid "赞助xx寝室"
-msgstr "xx寝室を協賛する"
+msgstr "xx寮室への投げ銭"
 
 #: models/currency.py:32
 msgid "装扮卖出"
-msgstr "装い売り"
+msgstr "服を売る"
 
 #: models/currency.py:32
 msgid "空间家具购买"
-msgstr "スペース家具購入"
+msgstr "スペース用の家具の購入"
 
 #: models/currency.py:32
 msgid "家具卖出"
@@ -3315,7 +3331,7 @@ msgstr "ニックネームの変更"
 
 #: models/currency.py:32
 msgid "修改头像"
-msgstr "画像を更新する"
+msgstr "画像の更新"
 
 #: models/currency.py:32
 msgid "CoWall砌砖"
@@ -3323,19 +3339,19 @@ msgstr "CoWallにレンガを投稿"
 
 #: models/currency.py:33
 msgid "购买xx教室的门票"
-msgstr "xx教室のチケット購入"
+msgstr "xx教室の入場券の購入"
 
 #: models/currency.py:34
 msgid "购买xx寝室的门票"
-msgstr "xx寝室のチケットを購入する"
+msgstr "xx寮室の入場券の購入"
 
 #: models/currency.py:34
 msgid "xx教室收入"
-msgstr "xx教室収入"
+msgstr "xx教室の収入"
 
 #: models/currency.py:34
 msgid "xx寝室收入"
-msgstr "xx寝室収入"
+msgstr "xx寮室の収入"
 
 #: models/currency.py:34
 msgid "新建店铺"
@@ -3343,27 +3359,27 @@ msgstr "新規店舗"
 
 #: models/currency.py:34
 msgid "续费店铺"
-msgstr "継続料金店舗"
+msgstr "店舗期限の更新"
 
 #: models/currency.py:34
 msgid "升级店铺"
 msgstr "店舗のアップグレード"
-// TODO：
+
 #: models/currency.py:35
 msgid "赞助xx店铺"
-msgstr "協賛xx店舗"
+msgstr "xx店舗への投げ銭"
 
 #: models/currency.py:35
 msgid "xx店铺收入"
-msgstr "xx店舗収入"
+msgstr "xx店舗の収入"
 
 #: models/currency.py:35
 msgid "食品工厂进货"
-msgstr "食品工場への仕入れ"
+msgstr "食品工場からの仕入れ"
 
 #: models/currency.py:35
 msgid "xx店铺消费"
-msgstr "xx店舗消費"
+msgstr "xx店舗での消費"
 
 #: models/currency.py:35
 msgid "植树节种树"
@@ -3371,19 +3387,19 @@ msgstr "植樹祭に木を植える"
 
 #: models/currency.py:35
 msgid "反馈建议奖励"
-msgstr "フィードバック推奨奨励金"
+msgstr "フィードバック獲得"
 
 #: models/currency.py:36
 msgid "CoPark活动奖励"
-msgstr "CoPark活動奨励金"
+msgstr "CoParkキャンペーン獲得"
 
 #: models/currency.py:36
 msgid "CoSpace活动"
-msgstr "CoSpaceアクティビティ"
+msgstr "CoSpaceキャンペーン獲得"
 
 #: models/currency.py:36
 msgid "购买表情包"
-msgstr "表情パックを購入"
+msgstr "スタンプの購入"
 
 #: models/currency.py:36
 msgid "个人家具购买"
@@ -3391,19 +3407,19 @@ msgstr "個人用家具の購入"
 
 #: models/currency.py:36
 msgid "购买人设"
-msgstr "キャラデザの購入"
+msgstr "キャラの購入"
 
 #: models/currency.py:36
 msgid "CoWall置顶砖"
-msgstr "CoWall天井タイル"
+msgstr "CoWallでのピン留め"
 
 #: models/currency.py:165
 msgid "Co币购买"
-msgstr "Coコイン購入"
+msgstr "Coコインの購入"
 
 #: models/currency.py:165
 msgid "过期"
-msgstr "期限が切れる"
+msgstr "期限切れ"
 
 #: models/currency.py:165
 msgid "新用户赠送"
@@ -3411,19 +3427,19 @@ msgstr "新規ユーザーのプレゼント"
 
 #: models/currency.py:166
 msgid "好梦兑换"
-msgstr "いい夢の両替"
+msgstr "良い夢の引き換え"
 
 #: models/currency.py:167
 msgid "系统退回"
-msgstr "システムの返品"
+msgstr "システムにより返品"
 
 #: models/custom_classroom.py:63
 msgid "木质黄"
-msgstr "ウッドイエロー"
+msgstr "ダークブラウン"
 
 #: models/custom_classroom.py:63
 msgid "西柚橙"
-msgstr "グレープフルーツオレンジ"
+msgstr "グレープフルーツ"
 
 #: models/custom_classroom.py:63
 msgid "咖啡棕"
@@ -3431,11 +3447,11 @@ msgstr "コーヒーブラウン"
 
 #: models/custom_classroom.py:63
 msgid "天空青"
-msgstr "空が青い"
+msgstr "スカイブルー"
 
 #: models/custom_classroom.py:63
 msgid "海底蓝"
-msgstr "かいていブルー"
+msgstr "シーブルー"
 
 #: models/error.py:214
 msgid "成功"
@@ -3447,11 +3463,11 @@ msgstr "資格認定情報がありません"//pass
 
 #: models/error.py:218
 msgid "token已经过期"
-msgstr "トーケンは期限切れです"//pass
+msgstr "トーケンは期限切れです"
 
 #: models/error.py:221 models/error.py:224
 msgid "登录过期"
-msgstr "ログインの有効期限"
+msgstr "ログイン期限が切れ"
 
 #: models/error.py:226
 msgid "未知错误"
@@ -3487,19 +3503,19 @@ msgstr "支払いに失敗しました"
 
 #: models/error.py:242
 msgid "没有study_state"
-msgstr "study _state"
+msgstr "study _stateはありません"
 
 #: models/error.py:244
 msgid "没有foucs_goal"
-msgstr "foucs _goal"
+msgstr "foucs _goalはありません"
 
 #: models/error.py:246
 msgid "没有focus_time"
-msgstr "focus _time"
+msgstr "focus _timeはありません"
 
 #: models/error.py:248
 msgid "没有rest_time"
-msgstr "rest _time"
+msgstr "rest _timeはありません"
 
 #: models/error.py:250
 msgid "教室满员了"
@@ -3507,15 +3523,15 @@ msgstr "教室は満員です"
 
 #: models/error.py:252
 msgid "没有uid"
-msgstr "uidなし"
+msgstr "uidはありません"
 
 #: models/error.py:254
 msgid "没有count"
-msgstr "countなし"
+msgstr "countはありません"
 
 #: models/error.py:256
 msgid "加油次数不够"
-msgstr "給油回数が足りない"
+msgstr "応援回数が足りません。"
 
 #: models/error.py:258
 msgid "座位正在使用中，无法选座"
@@ -3535,15 +3551,15 @@ msgstr "座席は使用されていないか、解放されている"
 
 #: models/error.py:266
 msgid "已经为本次专注加油"
-msgstr "今回の集中を応援しています"
+msgstr "今回の勉強に応援を送りました。"
 
 #: models/error.py:268
 msgid "一天只能给同一个人5次加油"
-msgstr "1日に5回しか同じ人を応援できない"
+msgstr "同じユーザーには1日に最大5回しか応援できません。"
 
 #: models/error.py:270
 msgid "今天加油次数超过限制"
-msgstr "本日の給油回数は制限を超えております"
+msgstr "今日は応援回数の上限に達しています。"
 
 #: models/error.py:272
 msgid "数量错误"
@@ -3551,11 +3567,11 @@ msgstr "数量エラー"
 
 #: models/error.py:274
 msgid "找不到该专注计划"
-msgstr "集中すべき計画が見つかりません"
+msgstr "学習計画が見つかりません"
 
 #: models/error.py:276
 msgid "找不到该自习"
-msgstr "自習すべきことが見つからない"
+msgstr "この自習データが見つかりません"
 
 #: models/error.py:278
 msgid "无效的邀请码"
@@ -3563,11 +3579,11 @@ msgstr "無効な招待コード"
 
 #: models/error.py:280
 msgid "该专注目标已存在"
-msgstr "この集中目標はすでに存在します"
+msgstr "この学習計画はすでに存在します"
 
 #: models/error.py:282
 msgid "该童鞋已经凑巧离开教室啦"
-msgstr "この子供靴はもう折よく教室を出た"
+msgstr "このユーザーが教室を出ました"
 
 #: models/error.py:284
 msgid "没有after"
@@ -3579,71 +3595,71 @@ msgstr "studyIdがありません"
 
 #: models/error.py:288
 msgid "你没有自习次数啦~"
-msgstr "あなたは自習回数がありませんね~"
+msgstr "自主回数の上限に達しています。"
 
 #: models/error.py:290
 msgid "缺少订单号"
-msgstr "注文番号がありません"
+msgstr "注文番号がありません。"
 
 #: models/error.py:292
 msgid "下单异常"
-msgstr "注文異常"//pass
+msgstr "注文異常が発生しました。"
 
 #: models/error.py:294
 msgid "找不到该教室"
-msgstr "教室が見つかりません"
+msgstr "教室が見つかりません。"
 
 #: models/error.py:296
 msgid "暂无此会员"
-msgstr "当分この会員はいない"
+msgstr "この会員は存在していません。"
 
 #: models/error.py:298
 msgid "此订单已支付"
-msgstr "このオーダーは支払い済みです"
+msgstr "このオーダーは支払い済みです。"
 
 #: models/error.py:300
 msgid "该用户不存在"
-msgstr "このユーザは存在しません"
+msgstr "このユーザは存在しません。"
 
 #: models/error.py:302
 msgid "非常抱歉，目前新用户暂时无法注册，正在紧急解决"
-msgstr "申し訳ありませんが、現在新規ユーザーは一時的に登録できず、緊急に解決しています"
+msgstr "申し訳ありませんが、現在新規ユーザーは一時的に登録できず、緊急に解決しています。"
 
 #: models/error.py:304
 msgid "该密码不可用，请更换密码"
-msgstr "このパスワードは使用できません。パスワードを交換してください"
+msgstr "このパスワードは使用できません。パスワードを交換してください。"
 
 #: models/error.py:306
 msgid "无法关注该用户"
-msgstr "このユーザに注目できません"
+msgstr "このユーザをフォローできません。"
 
 #: models/error.py:308
 msgid "已经关注过该用户"
-msgstr "ユーザーに注目した"
+msgstr "すでにこのユーザーをフォローしています。"
 
 #: models/error.py:310
 msgid "超过关注数量上限"
-msgstr "懸念数の上限を超える"
+msgstr "フォローの上限数を超過しました。"
 
 #: models/error.py:312
 msgid "没有关注该用户"
-msgstr "ユーザーに注目していません"
+msgstr "ユーザーに注目していません。"
 
 #: models/error.py:314
 msgid "缺少搜索关键词"
-msgstr "検索キーワードがありません"
+msgstr "検索キーワードがありません。"
 
 #: models/error.py:316
 msgid "已经置顶过该用户"
-msgstr "ユーザーの最上位へ移動しました"
+msgstr "ユーザーの最上位へ移動しました。"
 
 #: models/error.py:318
 msgid "已经拉黑过该用户"
-msgstr "ユーザーをブラックアウトしました"
+msgstr "ユーザーをブラックアウトしました。"
 
 #: models/error.py:320
 msgid "超过置顶用户数量"
-msgstr "セットアップユーザー数超過"
+msgstr "ピン留めの上限数を超過しました。"
 
 #: models/error.py:322
 msgid "版本过低，请更新到最新版本！"
@@ -3651,243 +3667,243 @@ msgstr "バージョンが低すぎます。最新バージョンに更新して
 
 #: models/error.py:324
 msgid "验证签名失败"
-msgstr "署名の検証に失敗しました"
+msgstr "署名の検証に失敗しました。"
 
 #: models/error.py:326 models/error.py:600
 msgid "该商品不存在"
-msgstr "この商品は存在しません"
+msgstr "この商品は存在しません。"
 
 #: models/error.py:328
 msgid "货币类型错误"
-msgstr "通貨タイプエラー"
+msgstr "通貨のタイプエラーが発生しました。"
 
 #: models/error.py:330
 msgid "余额不足"
-msgstr "残高不足"
+msgstr "残高が不足しています。"
 
 #: models/error.py:332
 msgid "折扣异常"
-msgstr "割引例外"
+msgstr "割引エラーが発生しました。"
 
 #: models/error.py:334
 msgid "你今天的暂停器机会用完啦！"
-msgstr "今日の一時停止のチャンスが切れた!"
+msgstr "今日のストップウォッチの利用回数の上限に達しています。"
 
 #: models/error.py:336
 msgid "无可用道具"
-msgstr "使用可能な道具がありません"
+msgstr "使えるアイテムがありません。"
 
 #: models/error.py:338
 msgid "操作频繁"
-msgstr "操作が頻繁である"
+msgstr "一定の時間をおいてから再度操作をお願いいたします。"
 
 #: models/error.py:340
 msgid "你今天的大课间机会用完啦！"
-msgstr "あなたは今日の大授業のチャンスが切れました！"
+msgstr "今日の昼休みチャイムの利用回数の上限に達しています。"
 
 #: models/error.py:342
 msgid "你没有暂停器啦，无法暂停了呢～"
-msgstr "あなたは一時停止器がないとか、一時停止することができませんね～"
+msgstr "ストップウォッチを持っていません。"
 
 #: models/error.py:344
 msgid "你没有大课间啦，无法延长了呢～"
-msgstr "あなたは大きな授業がないから、延長できませんね～"
+msgstr "昼休みチャイムを持っていません。"
 
 #: models/error.py:346
 msgid "你已购买过播放器啦！"
-msgstr "あなたはプレーヤーを購入したことがあります！"
+msgstr "既にプレーヤーを持っています。"
 
 #: models/error.py:348
 msgid "你已购买过该白噪音啦！"
-msgstr "あなたはホワイトノイズを購入したことがあります！"
-
+msgstr "既にこのホワイトノイズを持っています。"
+// TODO：需要场景 不知道是什么套餐
 #: models/error.py:350
 msgid "无此套餐包"
-msgstr "このパッケージはありません"
+msgstr "このパッケージをありません。"
 
 #: models/error.py:352
 msgid "你还没购买播放器哦！"
-msgstr "あなたはまだプレーヤーを購入していませんよ！"
+msgstr "まだプレーヤーを持っていません。"
 
 #: models/error.py:354
 msgid "验证失败，请重新输入"
-msgstr "検証に失敗しました。再入力してください"
+msgstr "検証に失敗しました。再入力してください。"
 
 #: models/error.py:356
 msgid "密码校验不通过"
-msgstr "パスワードチェックに失敗しました"
+msgstr "パスワードチェックに失敗しました。"
 
 #: models/error.py:358
 msgid "短信验证码过期"
-msgstr "SMS認証コードの有効期限"
+msgstr "SMS認証コードの有効期限が切れました。"
 
 #: models/error.py:360
 msgid "短信验证码错误"
-msgstr "SMS認証コードエラー"
+msgstr "SMS認証コードエラーが発生しました。"
 
 #: models/error.py:362
 msgid "当前发送短信过于频繁，请1分钟后再试。"
-msgstr "現在、メールの送信が頻繁に行われているので、1分後に再試行してください。"
+msgstr "1分後に再試行してください。"
 
 #: models/error.py:364
 msgid "当前发送短信过于频繁，请1小时后再试。"
-msgstr "現在、メールの送信が頻繁に行われているので、1時間後に再試行してください。"
+msgstr "1時間後に再試行してください。"
 
 #: models/error.py:366
 msgid "当前发送短信过于频繁，请24小时后再试。"
-msgstr "現在、メールの送信が頻繁に行われているので、24時間後に再試行してください。"
+msgstr "24時間後に再試行してください。"
 
 #: models/error.py:368
 msgid "时间错误"
-msgstr "時間エラー"
+msgstr "時間エラーが発生しました。"
 
 #: models/error.py:370
 msgid "验证超时:手机系统时间异常"
-msgstr "検証タイムアウト：携帯電話システム時間異常"
+msgstr "検証タイムアウト：携帯電話のシステム時間異常が発生しました。"
 
 #: models/error.py:372
 msgid "今日举报次数超限"
-msgstr "今日の通報回数は制限を超えています"
+msgstr "今日は通報回数の上限に達しています。"
 
 #: models/error.py:374
 msgid "今日举报该用户次数超限"
-msgstr "本日の通報回数が超過しました"
-
+msgstr "今日はこのユーザーについての通報回数の上限に達しています。"
+// TODO： 拘留=拉黑的话ok 否贼再议
 #: models/error.py:376
 msgid "用户被拘留"
-msgstr "ユーザーが拘束されました"
+msgstr "ユーザーがブロックされました。"
 
 #: models/error.py:378
 msgid "手机号需为当前绑定手机号"
-msgstr "携帯電話番号は現在の携帯電話番号にバインドする必要があります"
+msgstr "登録する電話番号は現在使われている携帯電話番号にする必要があります。"
 
 #: models/error.py:380
 msgid "手机号已被使用"
-msgstr "携帯電話番号が使用されている"
+msgstr "この電話番号はすでに登録されています。"
 
 #: models/error.py:382
 msgid "当前时间不可修改"
-msgstr "現在の時刻は変更できません"
+msgstr "現在の時刻は変更できません。"
 
 #: models/error.py:384
 msgid "当前楼层已满，去逛逛换个楼层吧"
-msgstr "ただいま満室ですので、フロアを変えてみましょう"
+msgstr "ただいま満室ですので、フロアを変えてみましょう。"
 
 #: models/error.py:386
 msgid "请设置打卡时间"
-msgstr "タイムカードを打つ時間を設定してください"
+msgstr "学習計画の時間を設定してください。"
 
 #: models/error.py:388
 msgid "错误的数量"
-msgstr "エラーの数"
+msgstr "数量エラーが発生しました。"
 
 #: models/error.py:390
 msgid "没有足够的余香"
-msgstr "残り香が足りない"
+msgstr "残り香が足りない"//pass
 
 #: models/error.py:392
 msgid "最多收藏10个教室"
-msgstr "最大10個の教室を収蔵"
+msgstr "お気に入りに追加できる教室は最大10個までです。"
 
 #: models/error.py:394
 msgid "你当前无法在该教室自习"
-msgstr "あなたは今この教室で自習することができません。"
+msgstr "この教室で学習することができません。"
 
 #: models/error.py:396
 msgid "你没有早休铃啦，无法暂停了呢～"
-msgstr "あなたは早休鈴がなくて、一時停止することができませんでしたね～"
+msgstr "前倒し休憩チャイムを持っていません。"
 
 #: models/error.py:398
 msgid "你今天的早休铃机会用完啦！"
-msgstr "今日の早休鈴のチャンスは使い切った！"
+msgstr "今日の前倒し休憩チャイムの利用回数の上限に達しています。"
 
 #: models/error.py:400
 msgid "你已经有座位啦~"
-msgstr "あなたはもう席がありますね~"
+msgstr "すでに席を持っています。"
 
 #: models/error.py:402
 msgid "你今天传小纸条的人太多啦，明天再来传吧。"
-msgstr "今日はメモを渡す人が多すぎるから、明日また伝えに来てください。"
+msgstr "今日のメッセージの利用回数の上限に達しています。明日メッセージの利用回数がリセットされます。"
 
 #: models/error.py:404
 msgid "该教室暂未开通赞助功能"
-msgstr "この教室には協賛機能がまだ開通していない"
+msgstr "この教室には投げ銭機能が利用されていません"
 
 #: models/error.py:406
 msgid "绑定超过最大数量啦~"
-msgstr "バインディングが最大数を超えました~"
+msgstr "登録数の上限に達しています。"
 
 #: models/error.py:408
 msgid "你已经创建太多了，不能再建啦~"
-msgstr "あなたはすでに作成しすぎて、再建することはできません~"
+msgstr "持ち数の上限に達していますので、新規作成はできません。"
 
 #: models/error.py:410
 msgid "写太多啦~"
-msgstr "書きすぎだよ~"
+msgstr "文字数制限を超えました。"
 
 #: models/error.py:412
 msgid "这块砖消失啦~"
-msgstr "この煉瓦が消えた~"
+msgstr "このレンガが消えました。"
 
 #: models/error.py:414
 msgid "无权限操作"
-msgstr "権限なしアクション"
+msgstr "操作権限がありません。"
 
 #: models/error.py:416
 msgid "找不到该评论"
-msgstr "コメントが見つかりません"
+msgstr "コメントが見つかりません。"
 
 #: models/error.py:418
 msgid "找不到该回复"
-msgstr "返信が見つかりません"
+msgstr "返信内容が見つかりません"
 
 #: models/error.py:420
 msgid "你无法进行该操作"
-msgstr "あなたはこの操作を行うことができません"
+msgstr "現在この操作はできません。"
 
 #: models/error.py:422
 msgid "Ta在休息期间，不能为Ta加油哦～"
-msgstr "Taは休憩中、Taを応援してはいけませんよ～"
+msgstr "休憩中のユーザーには応援を送ることができません。"
 
 #: models/error.py:424
 msgid "你已经有床位啦，不能预订啦~"
-msgstr "あなたはもうベッドがあるので、予約できません~"
+msgstr "すでにベットを持っているため、予約はできません。"
 
 #: models/error.py:426
 msgid "当前床位已经被使用啦，无法预订！"
-msgstr "現在のベッドはすでに使用されており、予約できません！"
+msgstr "このベッドはすでに使用されているため、予約はできません。"
 
 #: models/error.py:428
 msgid "已经存在该睡眠目标啦~"
-msgstr "この睡眠目標はすでに存在しています~"
+msgstr "この睡眠計画はすでに存在します。"
 
 #: models/error.py:430
 msgid "已经给Ta好梦过啦~"
-msgstr "もうTaにいい夢をあげました~"
+msgstr "このユーザーに良い夢を送りました。"
 
 #: models/error.py:432
 msgid "一天只能给同一个人5次好梦"
-msgstr "一日に5回しか同じ人に良い夢を与えられない"
+msgstr "同じユーザーには1日に最大5回までしか良い夢を送ることができません。"
 
 #: models/error.py:434
 msgid "今天好梦次数超过限制"
-msgstr "今日はいい夢の回数が制限を超えています"
+msgstr "今日は良い夢回数の上限に達しています"
 
 #: models/error.py:436
 msgid "当前没有睡眠次数啦~"
-msgstr "今のところ睡眠回数はありません~"
+msgstr "今日の睡眠回数はすでに使い切っています。"
 
 #: models/error.py:438
 msgid "你当前处于自习状态，无法进行此操作呦~"
-msgstr "あなたは現在自習状態なので、この操作はできませんよ~"
+msgstr "勉強中はこの操作はできません。"
 
 #: models/error.py:440
 msgid "你当前处于睡眠状态，无法进行此操作呦~"
-msgstr "あなたは現在睡眠状態で、この操作はできませんよ~"
+msgstr "睡眠中はこの操作はできません。"
 
 #: models/error.py:442
 msgid "无法继续收藏了,收藏10个寝室呦"
-msgstr "コレクションを続けることはできません。10の寝室を所蔵していますよ"
+msgstr "お気に入りに追加できる寮室は最大10個までです。"
 
 #: models/error.py:444
 msgid "该用户已经离开该床位~"
@@ -3899,11 +3915,11 @@ msgstr "今年は修正しましたので、来年また来ましょう！"
 
 #: models/error.py:448
 msgid "Co钻余额不足"
-msgstr "Coドリル残高不足"
+msgstr "ダイヤの残高が不足しています。"
 
 #: models/error.py:450
 msgid "Co币余额不足"
-msgstr "Co貨幣残高不足"
+msgstr "コインの残高が不足しています。"
 
 #: models/error.py:452
 msgid "找不到该寝室"
@@ -3931,11 +3947,11 @@ msgstr "この寝室は女子専用ですよ~"
 
 #: models/error.py:464
 msgid "错误的时间格式"
-msgstr "誤った時間形式"
+msgstr "時間フォーマットのエラーが発生しました"
 
 #: models/error.py:466
 msgid "结束自习"
-msgstr "自習を終える"
+msgstr "学習を終了する"
 
 #: models/error.py:468
 msgid "回首页"
@@ -3955,11 +3971,11 @@ msgstr "前回の寝室に入ることはできません。まずぶらぶらし
 
 #: models/error.py:476
 msgid "这里是专属座位，去找找其他位置吧～"
-msgstr "ここは専属席なので、他の席を探しに行きましょう～"
+msgstr "こちらはVIP専用席です。他の席に移動しましょう。"
 
 #: models/error.py:478
 msgid "这里是专属床位，去找找其他位置吧～"
-msgstr "ここは専属ベッドなので、他の場所を探しに行きましょう～"
+msgstr "こちらはVIP専用ベッドです。他のベッドに移動しましょう。"
 
 #: models/error.py:480
 msgid "当前无法修改，如需修改请更新到最新版本"
@@ -3971,11 +3987,11 @@ msgstr "君は今日れんがを積みすぎた"
 
 #: models/error.py:484
 msgid "使用此功能，需要绑定手机号，快去绑定吧~"
-msgstr "この機能を使用するには、携帯電話番号をバインドする必要があります。早くバインドしてください。"
+msgstr "携帯番号を登録したアカウントのみが、この機能を利用できます。"
 
 #: models/error.py:486
 msgid "内容异常，请重新编辑"
-msgstr "コンテンツ異常、再編集してください"
+msgstr "コンテンツ異常が発生しました。再編集してください"
 
 #: models/error.py:488
 msgid "包含不良信息"
@@ -3987,67 +4003,67 @@ msgstr "その店舗が見つかりません"
 
 #: models/error.py:492
 msgid "该童鞋已经凑巧离开啦"
-msgstr "この子供靴はもうあいにく出て行った"
+msgstr "このユーザーが見つかりません。"
 
 #: models/error.py:494
 msgid "当前购买的有效时长超出范围啦，请重新选择。"
-msgstr "現在購入している有効期間が範囲外になっているので、もう一度選択してください。"
+msgstr "注文しているメニューは営業時間を超えるため、もう一度選択してください。"
 
 #: models/error.py:496
 msgid "找不到该点单"
-msgstr "この注文が見つかりません"
+msgstr "この注文が見つかりません。"
 
 #: models/error.py:498
 msgid "已有座位"
-msgstr "既存の座席"
+msgstr "すでに席を持っています。"
 
 #: models/error.py:500
 msgid "座位已被使用"
-msgstr "座席は既に使用されています"
+msgstr "この席はすでに使用されています。"
 
 #: models/error.py:502
 msgid "最多收藏10个店铺"
-msgstr "最大10店舗まで収蔵"
+msgstr "お気に入りに追加できる店舗は最大10個までです。"
 
 #: models/error.py:504
 msgid "该用户已经离开该座位~"
-msgstr "ユーザはすでに席を離れている~"
+msgstr "ユーザーはすでに席を離れています。"
 
 #: models/error.py:506
 msgid "找不到店铺啦~"
-msgstr "お店が見つかりませんでした~"
+msgstr "店舗が見つかりません。"
 
 #: models/error.py:508
 msgid "你当前无法在该店铺点单"
-msgstr "現在、この店舗で注文することはできません"
+msgstr "現在、この店舗での注文はできません。"
 
 #: models/error.py:510
 msgid "已经给Ta拍灯过啦~"
-msgstr "Taに明かりをつけました~"
+msgstr "いいねを送りました。"
 
 #: models/error.py:512
 msgid "你今天已经给Ta点了5次拍灯啦~"
-msgstr "あなたは今日Taに5回ライトをつけましたね~"
+msgstr "同じユーザーには1日に最大5回までしかいいねを送ることができません。"
 
 #: models/error.py:514
 msgid "每天15次的拍灯额度用光啦"
-msgstr "1日15回の拍灯定格を使い果たした"
+msgstr "今日はいいねの回数上限に達しています。"
 
 #: models/error.py:516
 msgid "库存不足"
-msgstr "在庫不足"
+msgstr "在庫が不足しています。"
 
 #: models/error.py:518
 msgid "如若多端使用，可重启app。"
-msgstr "マルチエンドで使用する場合は、appを再起動することができます。"
+msgstr "複数の端末でご利用される際は、appを再起動してください。"
 
 #: models/error.py:520
 msgid "你的搭配屋已经满啦～"
-msgstr "あなたのコーディネートハウスはいっぱいですね～"
+msgstr "更衣室はいっぱいです。"
 
 #: models/error.py:522
 msgid "无效的套装"
-msgstr "無効なセット"
+msgstr "このコーデは無効です。"
 
 #: models/error.py:524
 msgid "当前无法选中该座位"
@@ -4075,39 +4091,39 @@ msgstr "管理者の人数制限を超えました～"
 
 #: models/error.py:536
 msgid "该账户已绑定"
-msgstr "アカウントはバインドされています"
+msgstr "アカウントはすでに登録されています。"
 
 #: models/error.py:538
 msgid "分享链接识别异常"
-msgstr "共有リンク認識異常"
+msgstr "共有リンクに異常が発生しました。"
 
 #: models/error.py:540
 msgid "手机号已注册,区号选择错误,请重新选择"
-msgstr "携帯電話番号が登録されていて、地域番号の選択が間違っているので、もう一度選択してください"
+msgstr "携帯号はすでに登録されています。地域番号の選択が間違っています。もう一度選択してください。"
 
 #: models/error.py:542
 msgid "手机号获取失败"
 msgstr "携帯番号取得に失敗しました"
-
+//　TODO 非正常模式是什么
 #: models/error.py:544
 msgid "你当前非正常模式，无法点单"
-msgstr "あなたは現在非正常なモードで、注文することができません"
+msgstr "あなたは現在非正常なモードで、注文することができません"//pass
 
 #: models/error.py:546
 msgid "当前无法报名"
-msgstr "現在申し込みはできません"
+msgstr "現在申し込みはできません"//pass
 
 #: models/error.py:548
 msgid "当前无法挑战"
-msgstr "現在挑戦できません"
+msgstr "現在チャレンジできません"//pass
 
 #: models/error.py:550
 msgid "当前队伍异常,出去再试试吧~"
-msgstr "今のチームは異常だから、外に出てみようかな~"
+msgstr "今のチームは異常だから、外に出てみようかな~"//pass
 
 #: models/error.py:552
 msgid "不在活动期间"
-msgstr "アクティビティ期間外"
+msgstr "アクティビティ期間外"//pass
 
 #: models/error.py:554
 msgid "该二维码无效"
@@ -4115,15 +4131,15 @@ msgstr "この2次元コードは無効です"
 
 #: models/error.py:556
 msgid "该二维码对应的礼物已经被领取啦，无法重复领取哦～"
-msgstr "このQRコード対応のプレゼントはすでに受け取っているので、繰り返し受け取ることはできませんよ～"
+msgstr "このQRコード対応のプレゼントはすでに受け取っているので、繰り返し受け取ることはできません。"
 
 #: models/error.py:558
 msgid "标签不存在"
 msgstr "タグが存在しません"
-// TODO：
+
 #: models/error.py:560
 msgid "该字符无效或已失效，绑定失败"
-msgstr "無効な文字または無効な文字、バインドに失敗しました"
+msgstr "無効な文字または不正な文字が含まれているため、登録に失敗しました。"
 
 #: models/error.py:562
 msgid "当前已绑定监护人，无法绑定"
@@ -4139,19 +4155,19 @@ msgstr "チャージできません。毎月のチャージ上限を超えてい
 
 #: models/error.py:568
 msgid "当前无法修改cowall设置"
-msgstr "現在はCoWallの設定が変更できません"
+msgstr "CoWallの設定が変更できません。"
 
 #: models/error.py:570
 msgid "你无法在这里砌砖哦～"
-msgstr "ここでレンガを投稿することができません。～"
+msgstr "ここでレンガを投稿することができません。"
 
 #: models/error.py:572
 msgid "参数异常"
-msgstr "パラメータ異常"
+msgstr "パラメータ異常が発生しました。"
 
 #: models/error.py:574
 msgid "抱歉，暂时无法修改个人资料"
-msgstr "申し訳ありませんが、プロフィールの変更がしばらくできません。"
+msgstr "申し訳ありませんが、プロフィールの変更ができません。"
 
 #: models/error.py:576
 msgid "该空间未开放CoWall"
@@ -4179,11 +4195,11 @@ msgstr "スペースが見つかりません。"
 
 #: models/error.py:588
 msgid "当前已购买"
-msgstr "購入済み"
+msgstr "購入済みです"
 
 #: models/error.py:590
 msgid "找不到该家具"
-msgstr "インテリアが見つかりません。"
+msgstr "家具が見つかりません。"
 
 #: models/error.py:592
 msgid "你自行设置的每日自习赠券已耗尽，再次自习需支付Co币或Co钻咯，希望你能更加规范自己呢！（可以去设置里更改每日赠券数量，本次支付的自习次数仅当日有效。"
@@ -4291,11 +4307,11 @@ msgstr "新しい住民に応援を送る"
 
 #: models/fragrance.py:104
 msgid "给TA好梦"
-msgstr "いい夢を送る"
+msgstr "良い夢を送る"
 
 #: models/fragrance.py:104
 msgid "给新来的Ta好梦"
-msgstr "新しい住民にいい夢を送る"
+msgstr "新しい住民に良い夢を送る"
 
 #: models/phoneNumber.py:34
 msgid "登录"
