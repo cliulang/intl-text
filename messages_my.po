@@ -1497,14 +1497,14 @@ msgstr "熟睡…"
 #: api/v3/sleep/api.py:688
 msgid " (计划已取消)"
 msgstr "（計画がキャンセルされました）"
-// TODO: 主语是我【我起床了】ok 否则再议
+// TODO: “起床啦，【xx点入睡】睡了【xx小时xx分钟】” 确认方框内填充内容
 #: api/v3/sleep/api.py:779
 msgid "起床啦，"
-msgstr "起きた"
-// TODO: 太短了需要场景
+msgstr "起きました。"
+
 #: api/v3/sleep/api.py:779
 msgid "睡了"
-msgstr "寝た"
+msgstr "寝ました。"
 
 #: api/v3/sleep/api.py:781
 msgid "没遵守计划，床位被收回了！"
@@ -2127,40 +2127,40 @@ msgstr "新しいリーダーは%s（ID：%s）順位で担当します。クリ
 #, python-format
 msgid "已经开启了当前队伍（%s）的%s，数据将开始计算，可以点击或者去活动页面查看每个人的进度哦！"
 msgstr "現在のチーム(%s)の%sがオープンしており、データの計算が開始されます。アクティブなページをクリックしたり、アクティブなページに行ったりして、各人の進捗を確認することができますよ！"//pass
-// TODO：
+
 #: api/v5/report/api.py:44
 #, python-format
 msgid "举报的用户（身份ID：%s）经平台审核，存在不当行为，已受到平台处理，感谢你帮助维护Co岛环境。"
-msgstr "通報したユーザー（ID：%s）はプラットフォームの審査を経て、不適切な行為が存在して、すでにプラットフォームの処理を受けて、あなたがCo島環境の維持を助けてくれたことに感謝します。"
-// TODO：
+msgstr "ご通報いただいたユーザー（ID：%s）は調査を経て、不適切な行為が確認され、運営によって処理されました。ご協力いただき、ありがとうございました。"
+
 #: api/v5/report/api.py:49
 #, python-format
 msgid "举报的教室（ID：%s）经平台审核，存在不当行为，已受到平台处理，感谢你帮助维护Co岛环境。"
-msgstr "通報した教室（ID：%s）はプラットフォームの審査を経て、不適切な行為が存在して、すでにプラットフォームの処理を受けて、あなたがCo島環境を維持するのに助けてくれてありがとうございます。"
-// TODO：
+msgstr "ご通報いただいた教室（ID：%s）は調査を経て、不適切な行為が確認され、運営によって処理されました。ご協力いただき、ありがとうございました。"
+
 #: api/v5/report/api.py:54
 #, python-format
 msgid "举报的寝室（ID：%s）经平台审核，存在不当行为，已受到平台处理，感谢你帮助维护Co岛环境。"
-msgstr "通報された寝室（ID：%s）はプラットフォームの審査を経て、不適切な行為が存在して、すでにプラットフォームの処理を受けて、あなたがCo島環境の維持を助けてくれたことに感謝します。"
-// TODO：
+msgstr "ご通報いただいた寝室（ID：%s）は調査を経て、不適切な行為が確認され、運営によって処理されました。ご協力いただき、ありがとうございました。"
+
 #: api/v5/report/api.py:59
 #, python-format
 msgid "举报的店铺（ID：%s）经平台审核，存在不当行为，已受到平台处理，感谢你帮助维护Co岛环境。"
-msgstr "通報した店舗（ID：%s）はプラットフォームの審査を経て、不適切な行為があり、プラットフォームの処理を受けており、Co島環境の維持に協力してくれてありがとう。"
-// TODO：
+msgstr "ご通報いただいた店舗（ID：%s）は調査を経て、不適切な行為が確認され、運営によって処理されました。ご協力いただき、ありがとうございました。"
+
 #: api/v5/report/api.py:63
 #, python-format
 msgid "举报的群（ID：%s）经平台审核，存在不当行为，已受到平台处理，感谢你帮助维护Co岛环境。"
-msgstr "通報されたグループ（ID：%s）はプラットフォームの審査を経て、不適切な行為が存在して、すでにプラットフォームの処理を受けて、あなたがCo島環境の維持を助けてくれたことに感謝します。"
-// TODO：场景
+msgstr "ご通報いただいたグループ（ID：%s）は調査を経て、不適切な行為が確認され、運営によって処理されました。ご協力いただき、ありがとうございました。"
+
 #: api/v5/report/api.py:65
 #, python-format
 msgid "你于%s"
-msgstr "あなたは%s"
+msgstr "%s、"
 
 #: api/v5/report/api.py:68
 msgid "你的举报已受到平台处理，感谢你帮助维护Co岛环境。"
-msgstr "あなたの通報内容はプラットフォームによって処理されました。ご協力いただき、ありがとうございました。"
+msgstr "ご通報いただいた内容は運営によって処理されました。ご協力いただき、ありがとうございました。"
 
 #: api/v5/report/api.py:90 api/v5/user/api.py:114 api/v5/user/user_info.py:136
 #: api/v5/user/user_info.py:196
@@ -2476,7 +2476,7 @@ msgstr "他のユーザーの追加に成功しました~"
 #: api/v5/user/safe_api.py:164
 #, python-format
 msgid "UPDATE tb_user SET nickname = 'Co用户' WHERE id = %d"
-msgstr "UPDATE tb_user SET nickname='Coユーザ'WHERE id=%d"//pass
+msgstr "UPDATE tb_6user SET nickname='Coユーザ'WHERE id=%d"//pass
 
 #: api/v5/user/user_info.py:75 api/v5/user/user_info.py:154
 #, python-format
@@ -3091,14 +3091,16 @@ msgstr "*眠りにつく"
 #: api/v6/user/user_info_api.py:608
 msgid "*起床"
 msgstr "*起き"
-// TODO：
+
 #: api/v6/wall/api.py:92
 #, python-format
 msgid ""
 "置顶砖位置<co-title>共%d块</co-title>，当前位置已满，距离位置放出<co-title>%s</co-"
 "title>。如果有空位出现，是否需要<co-title>通知你</co-title>？"
 msgstr ""
-// TODO：
+"ピン留めのレンガは<co-title>%d</co-title>枚で今はいっぱいです。あと<co-title>%s</co-"
+"title>で空きが出ます。もし空きができましたら、<co-title>通知しますか</co-title>？"
+
 #: api/v6/wall/api.py:100
 #, python-format
 msgid ""
@@ -3106,6 +3108,9 @@ msgid ""
 "</co-title>，是否确认置顶？（置顶砖将<co-title>置顶4h</co-title>，若发送内容<co-"
 "title>违反CoWall公约</co-title>，将直接对砖进行<co-title>删除</co-title>操作。）"
 msgstr ""
+"プレミアム会員はCoWallにて<co-title>毎月3回無料でピン留めでレンガ</co-title>の固定が可能性をます。今回は<co-title>第%d回目"
+"</co-title>で、ピン留めしますか？（ピン留めは<co-title>4h</co-title>有効です。投稿内容に<co-"
+"title>不適切な内容</co-title>がある場合、運営によって<co-title>削除</co-title>される可能性があります。）"
 // TODO：
 #: api/v6/wall/api.py:121
 #, python-format
@@ -4288,7 +4293,7 @@ msgstr "よくある質問"
 #: models/fragrance.py:23
 msgid "给Ta拍灯"
 msgstr "いいねを送る"
-// TODO: 需要使用场景
+
 #: models/fragrance.py:23 models/fragrance.py:60 models/fragrance.py:104
 msgid "兑换"
 msgstr "引き換え"

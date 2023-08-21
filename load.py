@@ -55,3 +55,4 @@ if __name__ == "__main__":
     # args: index文件path 分词词典path 分词词典txt更新flag 初始行数
     a = App("index.csv", "word_for_cut.txt", True, 845)
     a.read_line()
+    
