@@ -1480,7 +1480,7 @@ msgstr "星のように頑張って輝こう"
 # TODO: 1468,1472,1476连成一句ok 【确定计划，将在】1点【入睡】2点【起床】 否则再议
 #: api/v3/sleep/api.py:460
 msgid "确定计划，将在"
-msgstr "計画:"
+msgstr "計画: "
 
 #: api/v3/sleep/api.py:460 api/v3/sleep/api.py:779
 msgid "入睡，"
@@ -2312,7 +2312,7 @@ msgstr "高校生"
 #: api/v5/some_init/api.py:646 models/user.py:210 models/user.py:230
 msgid "硕博士"
 msgstr "大学院生"
-# TODO
+
 #: api/v5/user/api.py:83
 #, python-format
 msgid ""
@@ -2418,12 +2418,12 @@ msgstr "ユーザ管理者"
 #: api/v5/user/room_manager_api.py:399 api/v5/user/room_manager_api.py:492
 msgid "CoWall管理员"
 msgstr "CoWall管理者"
-# TODO：
+# TODO：被取消的身份是不是只有管理员一种？有别的可能吗？
 #: api/v5/user/room_manager_api.py:74
 #, python-format
 msgid "取消了你在教室（%s）中的%s身份"
 msgstr "あなたの教室(%s)での%sアイデンティティをキャンセルしました"
-# TODO：
+# TODO：被取消的身份是不是只有管理员一种？有别的可能吗？
 #: api/v5/user/room_manager_api.py:77
 #, python-format
 msgid "自行解除了教室（%s）的%s身份"
@@ -2502,7 +2502,7 @@ msgstr "バインドされたQQを交換しましたので、ご了承くださ�
 #: api/v5/user/user_info.py:104
 msgid "进行了绑定QQ操作，请知悉。"
 msgstr "QQをバインドする操作を行いましたので、ご了承ください。"#pass
-# TODO：
+
 #: api/v5/user/user_info.py:117 api/v5/user/user_info.py:177
 msgid "若非本人操作，请尽快更换密码。\n"
 msgstr "心当たりがない場合は、パスワードを変更してください。\n"
@@ -3112,10 +3112,10 @@ msgid ""
 "</co-title>，是否确认置顶？（置顶砖将<co-title>置顶4h</co-title>，若发送内容<co-"
 "title>违反CoWall公约</co-title>，将直接对砖进行<co-title>删除</co-title>操作。）"
 msgstr ""
-"プレミアム会員はCoWallにて<co-title>毎月3回無料でピン留めでレンガ</co-title>の固定が可能性をます。今回は<co-title>第%d回目"
+"プレミアム会員は共用のCoWallにて<co-title>毎月3回無料でピン留めでレンガ</co-title>の固定が可能です。今回は<co-title>第%d回目"
 "</co-title>で、ピン留めしますか？（ピン留めは<co-title>4h</co-title>有効です。投稿内容に<co-"
 "title>不適切な内容</co-title>がある場合、運営によって<co-title>削除</co-title>される可能性があります。）"
-# TODO：
+
 #: api/v6/wall/api.py:121
 #, python-format
 msgid ""
@@ -3125,7 +3125,12 @@ msgid ""
 "title>违反CoWall公约</co-title>，将直接对砖进行<co-title>删除</co-title>操作，Co钻将<co-"
 "title>不会退还</co-title>。）"
 msgstr ""
-# TODO：
+"共用のCoWallにピン留めるのは<co-title>プレミアム会員の専用機能</co-title>です。<co-title>毎月3回無料でピン留めでレンガを固定することができます"
+"</co-title>。無料枠のリセットまであと<co-title>%s</co-title>です。\n"
+"無料枠を使い切った場合はダイヤで、レンガを<co-title>4hピン留めする</co-title>ことができます。（投稿内容に<co-"
+"title>不適切な内容</co-title>がある場合、運営によって<co-title>削除</co-title>される可能性があります。ダイヤの返金は<co-"
+"title>対応しかねます</co-title>、ご了承ください。）"
+
 #: api/v6/wall/api.py:494
 #, python-format
 msgid ""
@@ -3133,18 +3138,24 @@ msgid ""
 "title>，是否确认砌砖？（若发送内容<co-title>违反CoWall公约</co-title>，将直接对砖进行<co-title>删除"
 "</co-title>操作。）"
 msgstr ""
-# TODO：
+"プレミアム会員は共用のCoWallにて<co-title>毎日2回無料で</co-title>レンガを投稿することがあります。現在は<co-title>%d回目</co-"
+"title>ですが、投稿しますか？（投稿内容に<co-title>不適切な内容</co-title>がある場合、運営によって<co-title>削除"
+"</co-title>される可能性があります。）"
+
 #: api/v6/wall/api.py:504
 msgid "你24小时内砌砖太多啦，再次砌砖需花费<co-title>3 Co钻</co-title>，是否确认砌砖？"
-msgstr ""
-# TODO：
+msgstr "24時間以内の無料投稿の上限に達しています。<co-title>3 ダイヤ</co-title>で投稿しますか？"
+
 #: api/v6/wall/api.py:511
 msgid ""
 "Co岛会员期间，可以享受<co-title>每天2次</co-title>免费砌砖福利，今天的福利次数已使用完毕。\n"
 "公共CoWall砌砖需要Co币或Co钻哦（若发送内容<co-title>违反CoWall公约</co-title>，将直接对砖进行<co-"
 "title>删除</co-title>操作，Co钻或Co币将<co-title>不会退还</co-title>。）"
 msgstr ""
-# TODO：
+"プレミアム会員は共用のCoWallにて<co-title>毎日2回無料で</co-title>レンガを投稿することがあります。本日の無料投稿の上限に達しています。\n"
+"コインまたはダイヤで投稿することができます。（投稿内容に<co-title>不適切な内容</co-title>がある場合、運営によって<co-"
+"title>削除</co-title>される可能性があります。コインまたはダイヤの返金は<co-title>対応しかねます</co-title>ので、ご了承ください。）"
+# TODO：3167 价格替换
 #: api/v6/wall/api.py:515
 msgid ""
 "可以选择<co-title>开通Co岛会员（最低11.9元/月）</co-title>，会员期间可享受<co-title>每天2次</co-"
@@ -3153,13 +3164,21 @@ msgid ""
 "title>，将直接对砖进行<co-title>删除</co-title>操作，Co钻或Co币将<co-title>不会退还</co-"
 "title>。）"
 msgstr ""
-# TODO：
+"<co-title>プレミアム会員（最低xxxx円/月</co-title>は、<co-title>毎日2回</co-"
+"title>無料でレンガを投稿することがあります。この機能以外にも<co-title>特典</co-title>がたくさんありますよ！\n"
+"通常会員はコインまたはダイヤで投稿することができます。（投稿内容に<co-title>不適切な内容</co-"
+"title>がある場合、運営によって<co-title>削除</co-title>される可能性があります。コインまたはダイヤの返金は<co-title>対応しかねます</co-"
+"title>ので、ご了承ください。）"
+
 #: api/v6/wall/api.py:521
 msgid ""
 "公共CoWall砌砖需要<co-title>Co币</co-title>或<co-title>Co钻</co-title>哦，若发送内容<co-"
 "title>违反CoWall公约</co-title>，将直接对砖进行<co-title>删除</co-title>操作，Co币或Co钻将<co-"
 "title>不会退还</co-title>。"
 msgstr ""
+"共用のCoWallに投稿するには、<co-title>コイン</co-title>または<co-title>ダイヤ</co-title>が必要です。投稿内容に<co-"
+"title>不適切な内容</co-title>がある場合、運営によって<co-title>削除</co-title>される可能性があります。コインまたはダイヤの返金は<co-"
+"title>対応しかねます</co-title>のでご了承ください。"
 
 #: models/app_version.py:26 models/feedback.py:49
 msgid "华为"
@@ -3167,7 +3186,7 @@ msgstr "ファーウェイ"#pass
 
 #: models/app_version.py:26 models/feedback.py:49
 msgid "小米"
-msgstr "粟"#pass
+msgstr "xiaomi"#pass
 
 #: models/app_version.py:26 models/feedback.py:49
 msgid "天猫"
