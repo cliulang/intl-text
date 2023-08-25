@@ -1,0 +1,17 @@
+/* 
+  File.strings
+  StudyRoom
+
+  Created by Kevin on 2020/10/26.
+  Copyright © 2020 zero. All rights reserved.
+*/
+
+"NSCameraUsageDescription" = "CoStudyはカメラの使用を必要としています。CoWallの投稿やDaysに使用します。カメラを開くことを許可しますか？";
+"NSLocationAlwaysUsageDescription" = "投稿した動画に現在地を表示できます。アプリに常時位置情報へのアクセスを許可しますか？";
+"NSLocationUsageDescription" = "チャット通信が必要です。位置情報へのアクセスを許可しますか？";
+"NSLocationWhenInUseUsageDescription" = "チャット通信が必要です。アプリ使用中に位置情報へのアクセスを許可しますか？";
+"NSMicrophoneUsageDescription" = "CoStudyはマイクの使用を必要としています。チャット中に音声を送信するために使用します。マイクの使用を許可しますか？";
+"NSPhotoLibraryAddUsageDescription" = "CoStudyは画像をアルバムに保存する必要があります。共有画像の保存に使用します。画像をアルバムに保存することを許可しますか？";
+"NSPhotoLibraryUsageDescription" = "CoStudyはアルバムの使用を必要としています。CoWallの投稿やDaysに使用します。アルバムを開くことを許可しますか？";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "チャット通信が必要です。アプリに常時位置情報へのアクセスを許可しますか？";
+"CFBundleDisplayName" = "CoStudy(ja)";
