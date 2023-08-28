@@ -2053,7 +2053,7 @@ msgstr ""
 "1. 毎日の経営の収入は、<co-title>翌日の早朝5時まで</co-title>に個人のアカウントに同期されます。\n"
 "2. 売り上げのダイヤの収益の<co-title>70%</co-title>が報酬として還元されます。\n"
 "3. 投げ銭のダイヤの収益の<co-title>100%</co-title>が報酬として還元されます。\n"
-"4. 売り上げのコインの収益は個人のアカウントに同期されます。" #pass
+"4. 売り上げのコインの収益は個人のアカウントに同期されます。"
 # TODO： 阶段暂时pass
 #: api/v5/classroom/custom_manage_api.py:350
 #: api/v5/dorm/custom_manage_api.py:244 api/v5/restaurant/manage_api.py:999
@@ -3156,15 +3156,15 @@ msgstr ""
 "コインまたはダイヤで投稿することができます。（投稿内容に<co-title>不適切な内容</co-title>がある場合、運営によって<co-"
 "title>削除</co-title>される可能性があります。コインまたはダイヤの返金は<co-title>対応しかねます</co-title>ので、ご了承ください。）"
 # TODO：3167 价格替换
-#: api/v6/wall/api.py:515
+#: api/v6/wall/api.py:515 （最低xxxx円/月
 msgid ""
-"可以选择<co-title>开通Co岛会员（最低11.9元/月）</co-title>，会员期间可享受<co-title>每天2次</co-"
+"可以选择<co-title>开通Co岛会员</co-title>，会员期间可享受<co-title>每天2次</co-"
 "title>免费砌砖福利，还有<co-title>超多其他福利</co-title>呢！\n"
 "若不开通会员，在公共CoWall砌砖需要Co币或Co钻哦。（若发送内容<co-title>违反CoWall公约</co-"
 "title>，将直接对砖进行<co-title>删除</co-title>操作，Co钻或Co币将<co-title>不会退还</co-"
 "title>。）"
 msgstr ""
-"<co-title>プレミアム会員（最低xxxx円/月</co-title>は、<co-title>毎日2回</co-"
+"<co-title>プレミアム会員</co-title>は、<co-title>毎日2回</co-"
 "title>無料でレンガを投稿することがあります。この機能以外にも<co-title>特典</co-title>がたくさんありますよ！\n"
 "通常会員はコインまたはダイヤで投稿することができます。（投稿内容に<co-title>不適切な内容</co-"
 "title>がある場合、運営によって<co-title>削除</co-title>される可能性があります。コインまたはダイヤの返金は<co-title>対応しかねます</co-"
