@@ -2792,7 +2792,7 @@ msgstr "サービス業（その他）"
 #: api/v5/user/user_info.py:421
 msgid "医疗服务"
 msgstr "医療サービス"
-# TODO：
+
 #: api/v5/user/user_info.py:423
 msgid "临床医疗行业"
 msgstr "医師、看護師"
@@ -3117,11 +3117,11 @@ msgstr "寮室"
 #: api/v5/wall/room_wall_api.py:281
 msgid "店铺"
 msgstr "店舗"
-# TODO：
+
 #: api/v5/wall/room_wall_api.py:282
 #, python-format
 msgid "你在%s%s的CoWall上发的砖（砖id：%d）被空间管理员置顶咯，快去看看吧！"
-msgstr "あなたが%s%sのCoWallで配ったレンガ（レンガid:%d）は空間管理者によって頂点に置かれています。早く見に行きましょう！"
+msgstr "あなたが%s%sのCoWallで投稿したレンガ（レンガid:%d）はスペースの管理者によってピン留めされました。早く見に行きましょう！"
 # TODO：
 #: api/v5/wall/room_wall_api.py:435
 #, python-format
@@ -3165,7 +3165,7 @@ msgstr "日"
 #, python-format
 msgid "(加油%d个,好梦%d个,拍灯%d个)"
 msgstr "（応援%d個、いい夢%d個、いいね%d個）"
-# TODO：
+# TODO：使用场景
 #: api/v6/user/badge_api.py:185
 #, python-format
 msgid "-当前%s%s，距离下一级还有%d%s-"
@@ -4258,7 +4258,7 @@ msgstr "現在下棚商品が存在しており、購入できませんので、
 
 #: models/error.py:532
 msgid "根据主理人设置，你无法在当前空间落座哦～"
-msgstr "管理人の設定によっては、現在の空間に座ることはできませんよ～"
+msgstr "管理人の設定によっては、現在のスペースに座ることはできませんよ～"
 
 #: models/error.py:534
 msgid "超过管理员人数上限啦～"
@@ -4510,14 +4510,14 @@ msgstr "パスワードを忘れた"
 #: models/phoneNumber.py:34
 msgid "注销"
 msgstr "ログアウト"
-# TODO: 需要使用场景, 如果发现违规行为，一种是系统自动检测到，会封禁用户
+
 #: models/police_office.py:49 models/police_office.py:76
 msgid "自动关入"
-msgstr "自動シャットダウン"
-# TODO: 需要使用场景  如果发现违规行为，一种是人工检测到，也会封禁用户
+msgstr "自動ブロック"
+
 #: models/police_office.py:49 models/police_office.py:76
 msgid "手动关入"
-msgstr "手動で閉じる"
+msgstr "手動ブロック確認"
 
 #: models/police_office.py:134
 msgid "待核查"
@@ -4692,35 +4692,36 @@ msgid "自习小结"
 msgstr "学習サマリー"
 
 # todo 新增
+# TODO: 名词ok 用于时间统计ok 动词不可
 msgid "专注"
 msgstr "勉強時間"
-
+# TODO: 名词ok 用于时间统计ok 动词不可
 msgid "休息"
 msgstr "休憩時間"
 
 msgid "空（可以在这里点击编辑本次小结，内容不会同步到days哦，可随心填写）"
-msgstr "データがありません（ここをクリックして今日の要約を編集この内容はDaysには同期されません。自由に記入してください。）"
+msgstr "データがありません（ここをクリックすると今回のサマリーを記入することができます。記入した内容はdaysには同期されません。）"
 
 msgid "专注期主动离开结束自习"
-msgstr "途中で自習を終了する"
+msgstr "途中で学習を終了した"
 
 msgid "专注期溜号结束自习"
 msgstr "勉強を途中でやめた"
 
 msgid "超过专注计划过久结束自习"
-msgstr "自習計画を長時間超過し、自習を終了する"
+msgstr "自習計画を長時間超過して学習終了"
 
 msgid "圆满结束自习"
 msgstr "勉強をやり切った"
 
 msgid "小休迟到结束自习"
-msgstr "休息が長すぎました、自習が遅れました"
+msgstr "勉強に遅刻して学習終了"
 
 msgid "取消填写专注计划结束自习"
-msgstr "勉強計画をキャンセルし"
+msgstr "学習計画の記入をキャンセルして学習終了"
 
 msgid "填写专注计划时间过长结束自习"
-msgstr "学習計画の入力に時間がかかりすぎました、自習を終了します"
+msgstr "学習計画の記入時間オーバーして学習終了"
 
 msgid "睡眠小结"
 msgstr "睡眠サマリー"
@@ -4729,28 +4730,28 @@ msgid "睡眠时长"
 msgstr "睡眠時間"
 
 msgid "睡眠溜号床位收回"
-msgstr "計画を忘れて、ベッドの予約がキャンセルされました"
+msgstr "ベッドの予約がキャンセルされた"
 
 msgid "按计划起床"
-msgstr "予定通りに起床する"
+msgstr "予定通りに起きた"
 
 msgid "起床迟到"
-msgstr "起きるのが遅くなりました"
-
+msgstr "起きる時間が遅れました"
+# TODO: 起床迟到 和 起床超时 不知道有什么区别　翻译成起床失败了，不合适的话再议
 msgid "起床超时"
-msgstr "起床が予定よりも長い時間遅れました"
+msgstr "起床が失敗した"
 
 msgid "提前起床"
-msgstr "起床の時間が予定よりも早くなりました"
+msgstr "予定時間よりも早く起きた"
 
 msgid "空"
 msgstr "データがありません"
 
 msgid "入睡时间异常"
-msgstr "異常な入眠時間"
+msgstr "就寝時間が異常"
 
 msgid "购买恢复成功"
-msgstr "購入回復成功"
+msgstr "アプリ内購入を復元した"
 
 
 
