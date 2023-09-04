@@ -267,7 +267,7 @@ msgstr "睡眠チケット"
 #: api/v2/cheer/api.py:98 models/currency.py:167 models/record.py:26
 #: models/record.py:89
 msgid "余香兑换"
-msgstr "余香両替"
+msgstr "お花の引き換え"
 # pass
 
 #: api/v2/classroom/api.py:73 api/v2/classroom/api.py:141
@@ -3972,7 +3972,7 @@ msgstr "数量エラーが発生しました。"
 
 #: models/error.py:390
 msgid "没有足够的余香"
-msgstr "残り香が足りない"
+msgstr "お花が足りないです"
 # pass
 
 #: models/error.py:392
